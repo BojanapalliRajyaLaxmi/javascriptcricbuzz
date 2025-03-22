@@ -98,7 +98,7 @@ document.addEventListener("DOMContentLoaded", function () {
   }
   
   async function fetchMatchData() {
-    let storedMatches = JSON.parse(localStorage.getItem("Match"));
+    let storedMatches = JSON.parse(localStorage.getItem("match"));
     if (!storedMatches) {
       console.error("No match data found in local storage.");
       return;
@@ -186,7 +186,7 @@ document.addEventListener("DOMContentLoaded", function () {
   }
   
   async function fetchAndRenderHomeStories() {
-    let homeData = JSON.parse(localStorage.getItem("newsStory"));
+    let homeData = JSON.parse(localStorage.getItem("newsall"));
     let homeList = homeData["storyList"];
   
     for (const home of homeList) {

@@ -1,0 +1,1859 @@
+{
+    "more": {
+        "series": {
+            "list": {
+                "seriesMapProto": [
+                    {
+                        "date": "FEBRUARY 2024",
+                        "series": [
+                            {
+                                "id": 7572,
+                                "name": "ICC Cricket World Cup League Two 2023-27",
+                                "startDt": "1707955200000",
+                                "endDt": "1806364800000"
+                            }
+                        ]
+                    },
+                    {
+                        "date": "MARCH 2025",
+                        "series": [
+                            {
+                                "id": 8562,
+                                "name": "Pakistan tour of New Zealand, 2025",
+                                "startDt": "1742083200000",
+                                "endDt": "1743811200000"
+                            },
+                            {
+                                "id": 9523,
+                                "name": "Canada tour of Namibia, 2025",
+                                "startDt": "1742256000000",
+                                "endDt": "1742688000000"
+                            }
+                        ]
+                    },
+                    {
+                        "date": "APRIL 2025",
+                        "series": [
+                            {
+                                "id": 9534,
+                                "name": "Portugal tour of Norway, 2025",
+                                "startDt": "1743984000000",
+                                "endDt": "1744156800000"
+                            },
+                            {
+                                "id": 9514,
+                                "name": "Zimbabwe tour of Bangladesh, 2025",
+                                "startDt": "1745107200000",
+                                "endDt": "1746144000000"
+                            }
+                        ]
+                    },
+                    {
+                        "date": "MAY 2025",
+                        "series": [
+                            {
+                                "id": 7065,
+                                "name": "Zimbabwe tour of England, 2025",
+                                "startDt": "1747785600000",
+                                "endDt": "1748131200000"
+                            },
+                            {
+                                "id": 9390,
+                                "name": "West Indies tour of Ireland, 2025",
+                                "startDt": "1747785600000",
+                                "endDt": "1749945600000"
+                            },
+                            {
+                                "id": 8796,
+                                "name": "West Indies tour of England, 2025",
+                                "startDt": "1748476800000",
+                                "endDt": "1749513600000"
+                            }
+                        ]
+                    },
+                    {
+                        "date": "JUNE 2025",
+                        "series": [
+                            {
+                                "id": 8881,
+                                "name": "ICC World Test Championship Final 2025",
+                                "startDt": "1749600000000",
+                                "endDt": "1749945600000"
+                            },
+                            {
+                                "id": 8786,
+                                "name": "India tour of England, 2025",
+                                "startDt": "1750377600000",
+                                "endDt": "1754265600000"
+                            },
+                            {
+                                "id": 9408,
+                                "name": "Australia tour of West Indies, 2025",
+                                "startDt": "1750809600000",
+                                "endDt": "1753660800000"
+                            }
+                        ]
+                    },
+                    {
+                        "date": "JULY 2025",
+                        "series": [
+                            {
+                                "id": 9399,
+                                "name": "Pakistan tour of West Indies, 2025",
+                                "startDt": "1753920000000",
+                                "endDt": "1754956800000"
+                            }
+                        ]
+                    },
+                    {
+                        "date": "SEPTEMBER 2025",
+                        "series": [
+                            {
+                                "id": 8788,
+                                "name": "South Africa tour of England, 2025",
+                                "startDt": "1756771200000",
+                                "endDt": "1757808000000"
+                            },
+                            {
+                                "id": 8802,
+                                "name": "England tour of Ireland, 2025",
+                                "startDt": "1758067200000",
+                                "endDt": "1758412800000"
+                            }
+                        ]
+                    },
+                    {
+                        "date": "NOVEMBER 2025",
+                        "series": [
+                            {
+                                "id": 9107,
+                                "name": "The Ashes, 2025-26",
+                                "startDt": "1763683200000",
+                                "endDt": "1767830400000"
+                            }
+                        ]
+                    },
+                    {
+                        "date": "JANUARY 2026",
+                        "series": [
+                            {
+                                "id": 9551,
+                                "name": "West Indies tour of South Africa, 2026",
+                                "startDt": "1769472000000",
+                                "endDt": "1770336000000"
+                            }
+                        ]
+                    }
+                ],
+                "appIndex": {
+                    "seoTitle": "Current Running Cricket Series - Cricbuzz | Cricbuzz.com",
+                    "webURL": "www.cricbuzz.com/cricket-series/"
+                }
+            },
+            "archives": {
+                "seriesMapProto": [
+                    {
+                        "date": "2025",
+                        "series": [
+                            {
+                                "id": 9523,
+                                "name": "Canada tour of Namibia, 2025",
+                                "startDt": "1742256000000",
+                                "endDt": "1742688000000"
+                            },
+                            {
+                                "id": 8562,
+                                "name": "Pakistan tour of New Zealand, 2025",
+                                "startDt": "1742083200000",
+                                "endDt": "1743811200000"
+                            },
+                            {
+                                "id": 9507,
+                                "name": "Falkland Islands tour of Costa Rica 2025",
+                                "startDt": "1741651200000",
+                                "endDt": "1741824000000"
+                            },
+                            {
+                                "id": 9480,
+                                "name": "Malaysia Tri-Nation T20I Series, 2025",
+                                "startDt": "1741564800000",
+                                "endDt": "1742169600000"
+                            },
+                            {
+                                "id": 9453,
+                                "name": "Bahrain tour of Singapore, 2025",
+                                "startDt": "1740700800000",
+                                "endDt": "1741132800000"
+                            },
+                            {
+                                "id": 9451,
+                                "name": "USA tour of Oman T20I Series, 2025",
+                                "startDt": "1740009600000",
+                                "endDt": "1740268800000"
+                            },
+                            {
+                                "id": 9426,
+                                "name": "Bahrain tour of Indonesia, 2025",
+                                "startDt": "1739923200000",
+                                "endDt": "1740355200000"
+                            },
+                            {
+                                "id": 9325,
+                                "name": "ICC Champions Trophy, 2025",
+                                "startDt": "1739923200000",
+                                "endDt": "1741478400000"
+                            },
+                            {
+                                "id": 8511,
+                                "name": "Pakistan ODI Tri-Series, 2025",
+                                "startDt": "1738972800000",
+                                "endDt": "1739491200000"
+                            },
+                            {
+                                "id": 9331,
+                                "name": "Ireland tour of Zimbabwe, 2025",
+                                "startDt": "1738800000000",
+                                "endDt": "1740441600000"
+                            },
+                            {
+                                "id": 9375,
+                                "name": "Malta T20I Tri-Series, 2025",
+                                "startDt": "1738540800000",
+                                "endDt": "1738713600000"
+                            },
+                            {
+                                "id": 9181,
+                                "name": "Australia tour of Sri Lanka, 2025",
+                                "startDt": "1738108800000",
+                                "endDt": "1739491200000"
+                            },
+                            {
+                                "id": 8402,
+                                "name": "England tour of India, 2025",
+                                "startDt": "1737504000000",
+                                "endDt": "1739318400000"
+                            },
+                            {
+                                "id": 8504,
+                                "name": "West Indies tour of Pakistan, 2025",
+                                "startDt": "1736467200000",
+                                "endDt": "1738022400000"
+                            }
+                        ]
+                    },
+                    {
+                        "date": "2024",
+                        "series": [
+                            {
+                                "id": 8553,
+                                "name": "Sri Lanka tour of New Zealand, 2024-25",
+                                "startDt": "1734912000000",
+                                "endDt": "1736553600000"
+                            },
+                            {
+                                "id": 9297,
+                                "name": "Gulf Cricket T20I Championship, 2024",
+                                "startDt": "1734048000000",
+                                "endDt": "1734739200000"
+                            },
+                            {
+                                "id": 8044,
+                                "name": "Pakistan tour of South Africa, 2024 -25",
+                                "startDt": "1733788800000",
+                                "endDt": "1736208000000"
+                            },
+                            {
+                                "id": 9171,
+                                "name": "Afghanistan tour of Zimbabwe, 2024-25",
+                                "startDt": "1733702400000",
+                                "endDt": "1736121600000"
+                            },
+                            {
+                                "id": 9265,
+                                "name": "ICC Mens T20 World Cup Americas Sub Regional Qualifier, 2024",
+                                "startDt": "1733443200000",
+                                "endDt": "1734307200000"
+                            },
+                            {
+                                "id": 9289,
+                                "name": "Africa Continental Cup 2024",
+                                "startDt": "1733270400000",
+                                "endDt": "1734134400000"
+                            }
+                        ]
+                    }
+                ],
+                "appIndex": {
+                    "seoTitle": "Current Running Cricket Series - Cricbuzz | Cricbuzz.com",
+                    "webURL": "www.cricbuzz.com/cricket-series/"
+                }
+            },
+            "matches": {
+                "matchDetails": [
+                    {
+                        "matchDetailsMap": {
+                            "key": "Fri, 20 May 2022 - Mon, 23 May 2022",
+                            "match": [
+                                {
+                                    "matchInfo": {
+                                        "matchId": 48002,
+                                        "seriesId": 3641,
+                                        "seriesName": "New Zealand tour of England, 2022",
+                                        "matchDesc": "1st Warm-up Match",
+                                        "matchFormat": "TEST",
+                                        "startDate": "1653040800000",
+                                        "endDate": "1653300000000",
+                                        "state": "complete",
+                                        "status": "Match drawn",
+                                        "team1": {
+                                            "teamId": 41,
+                                            "teamName": "SUSSEX",
+                                            "teamSName": "SUS",
+                                            "imageId": 172148
+                                        },
+                                        "team2": {
+                                            "teamId": 13,
+                                            "teamName": "NEW ZEALAND",
+                                            "teamSName": "NZ",
+                                            "imageId": 172128
+                                        },
+                                        "venueInfo": {
+                                            "ground": "County Ground",
+                                            "city": "Hove",
+                                            "timezone": "+01:00"
+                                        },
+                                        "currBatTeamId": 13,
+                                        "isTimeAnnounced": true
+                                    },
+                                    "matchScore": {
+                                        "team1Score": {
+                                            "inngs1": {
+                                                "inningsId": 2,
+                                                "runs": 247,
+                                                "wickets": 10,
+                                                "overs": 79.1
+                                            }
+                                        },
+                                        "team2Score": {
+                                            "inngs1": {
+                                                "inningsId": 1,
+                                                "runs": 342,
+                                                "wickets": 3,
+                                                "overs": 90.0,
+                                                "isDeclared": true
+                                            },
+                                            "inngs2": {
+                                                "inningsId": 3,
+                                                "runs": 40,
+                                                "overs": 8.0
+                                            }
+                                        }
+                                    }
+                                }
+                            ],
+                            "seriesId": 3641
+                        }
+                    },
+                    {
+                        "adDetail": {
+                            "name": "native_news_index_random_1",
+                            "layout": "native_large",
+                            "position": 1
+                        }
+                    },
+                    {
+                        "matchDetailsMap": {
+                            "key": "Thu, 26 May 2022 - Sun, 29 May 2022",
+                            "match": [
+                                {
+                                    "matchInfo": {
+                                        "matchId": 48009,
+                                        "seriesId": 3641,
+                                        "seriesName": "New Zealand tour of England, 2022",
+                                        "matchDesc": "2nd Warm-up Match",
+                                        "matchFormat": "TEST",
+                                        "startDate": "1653559200000",
+                                        "endDate": "1653818400000",
+                                        "state": "complete",
+                                        "status": "County Select XI won by 7 wkts",
+                                        "team1": {
+                                            "teamId": 886,
+                                            "teamName": "COUNTY SELECT XI",
+                                            "teamSName": "CSXI",
+                                            "imageId": 174284
+                                        },
+                                        "team2": {
+                                            "teamId": 13,
+                                            "teamName": "NEW ZEALAND",
+                                            "teamSName": "NZ",
+                                            "imageId": 172128
+                                        },
+                                        "venueInfo": {
+                                            "ground": "County Ground",
+                                            "city": "Chelmsford",
+                                            "timezone": "+01:00"
+                                        },
+                                        "currBatTeamId": 886,
+                                        "isTimeAnnounced": true
+                                    },
+                                    "matchScore": {
+                                        "team1Score": {
+                                            "inngs1": {
+                                                "inningsId": 2,
+                                                "runs": 247,
+                                                "wickets": 10,
+                                                "overs": 74.2
+                                            },
+                                            "inngs2": {
+                                                "inningsId": 4,
+                                                "runs": 264,
+                                                "wickets": 3,
+                                                "overs": 88.0
+                                            }
+                                        },
+                                        "team2Score": {
+                                            "inngs1": {
+                                                "inningsId": 1,
+                                                "runs": 362,
+                                                "wickets": 9,
+                                                "overs": 100.0,
+                                                "isDeclared": true
+                                            },
+                                            "inngs2": {
+                                                "inningsId": 3,
+                                                "runs": 148,
+                                                "wickets": 10,
+                                                "overs": 43.2
+                                            }
+                                        }
+                                    }
+                                }
+                            ],
+                            "seriesId": 3641
+                        }
+                    },
+                    {
+                        "matchDetailsMap": {
+                            "key": "Thu, 02 Jun 2022 - Mon, 06 Jun 2022",
+                            "match": [
+                                {
+                                    "matchInfo": {
+                                        "matchId": 38326,
+                                        "seriesId": 3641,
+                                        "seriesName": "New Zealand tour of England, 2022",
+                                        "matchDesc": "1st Test",
+                                        "matchFormat": "TEST",
+                                        "startDate": "1654164000000",
+                                        "endDate": "1654509600000",
+                                        "state": "complete",
+                                        "status": "England won by 5 wkts",
+                                        "team1": {
+                                            "teamId": 9,
+                                            "teamName": "ENGLAND",
+                                            "teamSName": "ENG",
+                                            "imageId": 172123
+                                        },
+                                        "team2": {
+                                            "teamId": 13,
+                                            "teamName": "NEW ZEALAND",
+                                            "teamSName": "NZ",
+                                            "imageId": 172128
+                                        },
+                                        "venueInfo": {
+                                            "ground": "Lord's",
+                                            "city": "London",
+                                            "timezone": "+01:00"
+                                        },
+                                        "currBatTeamId": 9,
+                                        "isTimeAnnounced": true
+                                    },
+                                    "matchScore": {
+                                        "team1Score": {
+                                            "inngs1": {
+                                                "inningsId": 2,
+                                                "runs": 141,
+                                                "wickets": 10,
+                                                "overs": 42.5
+                                            },
+                                            "inngs2": {
+                                                "inningsId": 4,
+                                                "runs": 279,
+                                                "wickets": 5,
+                                                "overs": 78.5
+                                            }
+                                        },
+                                        "team2Score": {
+                                            "inngs1": {
+                                                "inningsId": 1,
+                                                "runs": 132,
+                                                "wickets": 10,
+                                                "overs": 40.0
+                                            },
+                                            "inngs2": {
+                                                "inningsId": 3,
+                                                "runs": 285,
+                                                "wickets": 10,
+                                                "overs": 91.3
+                                            }
+                                        }
+                                    }
+                                }
+                            ],
+                            "seriesId": 3641
+                        }
+                    },
+                    {
+                        "matchDetailsMap": {
+                            "key": "Fri, 10 Jun 2022 - Tue, 14 Jun 2022",
+                            "match": [
+                                {
+                                    "matchInfo": {
+                                        "matchId": 38331,
+                                        "seriesId": 3641,
+                                        "seriesName": "New Zealand tour of England, 2022",
+                                        "matchDesc": "2nd Test",
+                                        "matchFormat": "TEST",
+                                        "startDate": "1654855200000",
+                                        "endDate": "1655200800000",
+                                        "state": "complete",
+                                        "status": "England won by 5 wkts",
+                                        "team1": {
+                                            "teamId": 9,
+                                            "teamName": "ENGLAND",
+                                            "teamSName": "ENG",
+                                            "imageId": 172123
+                                        },
+                                        "team2": {
+                                            "teamId": 13,
+                                            "teamName": "NEW ZEALAND",
+                                            "teamSName": "NZ",
+                                            "imageId": 172128
+                                        },
+                                        "venueInfo": {
+                                            "ground": "Trent Bridge",
+                                            "city": "Nottingham",
+                                            "timezone": "+01:00"
+                                        },
+                                        "currBatTeamId": 9,
+                                        "isTimeAnnounced": true
+                                    },
+                                    "matchScore": {
+                                        "team1Score": {
+                                            "inngs1": {
+                                                "inningsId": 2,
+                                                "runs": 539,
+                                                "wickets": 10,
+                                                "overs": 128.2
+                                            },
+                                            "inngs2": {
+                                                "inningsId": 4,
+                                                "runs": 299,
+                                                "wickets": 5,
+                                                "overs": 50.0
+                                            }
+                                        },
+                                        "team2Score": {
+                                            "inngs1": {
+                                                "inningsId": 1,
+                                                "runs": 553,
+                                                "wickets": 10,
+                                                "overs": 145.3
+                                            },
+                                            "inngs2": {
+                                                "inningsId": 3,
+                                                "runs": 284,
+                                                "wickets": 10,
+                                                "overs": 84.4
+                                            }
+                                        }
+                                    }
+                                }
+                            ],
+                            "seriesId": 3641
+                        }
+                    },
+                    {
+                        "adDetail": {
+                            "name": "native_news_index_random_2",
+                            "layout": "native_large",
+                            "position": 4
+                        }
+                    },
+                    {
+                        "matchDetailsMap": {
+                            "key": "Thu, 23 Jun 2022 - Mon, 27 Jun 2022",
+                            "match": [
+                                {
+                                    "matchInfo": {
+                                        "matchId": 38332,
+                                        "seriesId": 3641,
+                                        "seriesName": "New Zealand tour of England, 2022",
+                                        "matchDesc": "3rd Test",
+                                        "matchFormat": "TEST",
+                                        "startDate": "1655978400000",
+                                        "endDate": "1656324000000",
+                                        "state": "complete",
+                                        "status": "England won by 7 wkts",
+                                        "team1": {
+                                            "teamId": 9,
+                                            "teamName": "ENGLAND",
+                                            "teamSName": "ENG",
+                                            "imageId": 172123
+                                        },
+                                        "team2": {
+                                            "teamId": 13,
+                                            "teamName": "NEW ZEALAND",
+                                            "teamSName": "NZ",
+                                            "imageId": 172128
+                                        },
+                                        "venueInfo": {
+                                            "ground": "Headingley",
+                                            "city": "Leeds",
+                                            "timezone": "+01:00"
+                                        },
+                                        "currBatTeamId": 9,
+                                        "isTimeAnnounced": true
+                                    },
+                                    "matchScore": {
+                                        "team1Score": {
+                                            "inngs1": {
+                                                "inningsId": 2,
+                                                "runs": 360,
+                                                "wickets": 10,
+                                                "overs": 67.0
+                                            },
+                                            "inngs2": {
+                                                "inningsId": 4,
+                                                "runs": 296,
+                                                "wickets": 3,
+                                                "overs": 54.2
+                                            }
+                                        },
+                                        "team2Score": {
+                                            "inngs1": {
+                                                "inningsId": 1,
+                                                "runs": 329,
+                                                "wickets": 10,
+                                                "overs": 117.3
+                                            },
+                                            "inngs2": {
+                                                "inningsId": 3,
+                                                "runs": 326,
+                                                "wickets": 10,
+                                                "overs": 105.2
+                                            }
+                                        }
+                                    }
+                                }
+                            ],
+                            "seriesId": 3641
+                        }
+                    }
+                ],
+                "appIndex": {
+                    "seoTitle": "New Zealand tour of England, 2022 live scores, schedule and results - Cricbuzz | Cricbuzz.com",
+                    "webURL": "www.cricbuzz.com/cricket-series/"
+                }
+            },
+            "news": {
+                "storyList": [
+                    {
+                        "story": {
+                            "id": 123123,
+                            "hline": "Hardik pleased to 'fill the big shoes' of Bumrah",
+                            "intro": "With Bumrah not playing, Hardik had to step up with the ball and he showed his ability to adjust to different conditions with vital wickets",
+                            "pubTime": "1658123012201",
+                            "source": "Cricbuzz",
+                            "storyType": "News",
+                            "imageId": 239444,
+                            "seoHeadline": "India tour of England, 2022: Hardik pleased to 'fill the big shoes' of Bumrah",
+                            "context": "India tour of England, 2022",
+                            "coverImage": {
+                                "id": "239444",
+                                "caption": "On a track that offered some bounce, Hardik's strategy was to bang the ball short and use it as a wicket-taking option.",
+                                "source": "AFP"
+                            },
+                            "entitlements": {},
+                            "adsType": {}
+                        }
+                    },
+                    {
+                        "ad": {
+                            "name": "native_news_index",
+                            "layout": "native_large",
+                            "position": 1
+                        }
+                    },
+                    {
+                        "story": {
+                            "id": 123122,
+                            "hline": "Pant, Hardik set new template for pressure situations",
+                            "intro": "It was India's first century partnership against England in England for the fifth wicket in nearly 8 years, effectively sealing the chase",
+                            "pubTime": "1658107811717",
+                            "source": "Cricbuzz",
+                            "storyType": "Match Features",
+                            "imageId": 239442,
+                            "seoHeadline": "India tour of England, 2022: Pant, Hardik play the situation to set new template for pressure situations",
+                            "context": "India tour of England, 2022",
+                            "coverImage": {
+                                "id": "239442",
+                                "caption": "Hardik and Pant, with their match-winning partnership, showed India the solution should they find themselves in such situations leading into the ODI World Cup next year.",
+                                "source": "Getty"
+                            },
+                            "entitlements": {},
+                            "adsType": {}
+                        }
+                    },
+                    {
+                        "story": {
+                            "id": 123117,
+                            "hline": "Hardik, Pant put on a show as India clinch series",
+                            "intro": "While Hardik shone with both bat and ball, Pant hit his maiden ODI century in India's successful chase",
+                            "pubTime": "1658080238793",
+                            "source": "Cricbuzz",
+                            "storyType": "Reports",
+                            "imageId": 239380,
+                            "seoHeadline": "Hardik Pandya, Rishabh Pant put on a show as India clinch series",
+                            "context": "India tour of England, 2022",
+                            "coverImage": {
+                                "id": "239380",
+                                "caption": "Rishabh Pant scored his maiden ODI hundred in India's chase.",
+                                "source": "Getty"
+                            },
+                            "entitlements": {},
+                            "adsType": {}
+                        }
+                    },
+                    {
+                        "story": {
+                            "id": 123112,
+                            "hline": "Hardik shines as England fold for 259",
+                            "intro": "Jos Buttler hit a fifty but didn't find support from the other end in the series decider",
+                            "pubTime": "1658067832081",
+                            "source": "Cricbuzz",
+                            "storyType": "Reports",
+                            "imageId": 239228,
+                            "seoHeadline": "Hardik Pandya shines as England fold for 259",
+                            "context": "India tour of England, 2022",
+                            "coverImage": {
+                                "id": "239228",
+                                "caption": "Hardik Pandya took career-best ODI figures of 4/24.",
+                                "source": "Getty"
+                            },
+                            "entitlements": {},
+                            "adsType": {}
+                        }
+                    },
+                    {
+                        "story": {
+                            "id": 123107,
+                            "hline": "Live Cricket Score - England vs India, 3rd ODI",
+                            "intro": "Catch all the live updates of England vs India, 3rd ODI, Manchester",
+                            "pubTime": "1658049081017",
+                            "source": "Cricbuzz",
+                            "storyType": "Live Blogs",
+                            "imageId": 239286,
+                            "seoHeadline": "Live Cricket Score - England vs India, 3rd ODI",
+                            "context": "India tour of England, 2022",
+                            "coverImage": {
+                                "id": "239286",
+                                "caption": "Hardik Pandya picked up four wickets for India.",
+                                "source": "AFP"
+                            },
+                            "entitlements": {},
+                            "adsType": {}
+                        }
+                    },
+                    {
+                        "ad": {
+                            "name": "native_news_index_2",
+                            "layout": "native_large",
+                            "position": 5
+                        }
+                    },
+                    {
+                        "story": {
+                            "id": 123100,
+                            "hline": "Suryakumar credits Rohit's support in his cricketing growth",
+                            "intro": "The 31-year-old, who made his international debut last year, has established himself as an important member of the Indian limited-overs setup",
+                            "pubTime": "1658000363203",
+                            "source": "Cricbuzz",
+                            "storyType": "News",
+                            "imageId": 239100,
+                            "seoHeadline": "Suryakumar credits Rohit's support in his cricketing growth",
+                            "context": "India tour of England, 2022",
+                            "coverImage": {
+                                "id": "239100",
+                                "caption": "Suryakumar Yadav has established himself as an important member of the Indian limited-overs setup",
+                                "source": "AFP"
+                            },
+                            "entitlements": {},
+                            "adsType": {}
+                        }
+                    },
+                    {
+                        "story": {
+                            "id": 123094,
+                            "hline": "India seek batting fillip in series decider in Manchester",
+                            "intro": "The series is tied at 1-1 following England's impressive win in the second ODI",
+                            "pubTime": "1657972434574",
+                            "source": "Cricbuzz",
+                            "storyType": "Previews",
+                            "imageId": 239084,
+                            "seoHeadline": "India seek batting fillip in series decider in Manchester",
+                            "context": "India tour of England, 2022",
+                            "coverImage": {
+                                "id": "239084",
+                                "caption": "Reece Topley dominated the Indian batting lineup in the second ODI.",
+                                "source": "AFP"
+                            },
+                            "entitlements": {},
+                            "adsType": {}
+                        }
+                    },
+                    {
+                        "story": {
+                            "id": 123079,
+                            "hline": "How Chahal upstaged England's top batters",
+                            "intro": "With subtle variations and plans, the legspinner got the better of Bairstow, Root and Stokes",
+                            "pubTime": "1657866932831",
+                            "source": "Cricbuzz",
+                            "storyType": "Match Features",
+                            "imageId": 239061,
+                            "seoHeadline": "How Chahal upstaged England's middle order",
+                            "context": "Eng vs India, 2nd ODI",
+                            "coverImage": {
+                                "id": "239061",
+                                "caption": "Chahal exults after getting Stokes LBW",
+                                "source": "Getty"
+                            },
+                            "entitlements": {},
+                            "adsType": {}
+                        }
+                    },
+                    {
+                        "story": {
+                            "id": 123078,
+                            "hline": "Rohit throws weight behind out-of-form Kohli ",
+                            "intro": "Kohli was dismissed for 16 as India fell short by 100 runs in the chase",
+                            "pubTime": "1657856614848",
+                            "source": "Cricbuzz",
+                            "storyType": "News",
+                            "imageId": 239058,
+                            "seoHeadline": "India tour of England, 2022:Rohit Sharma throws weight behind out-of-form Virat Kohli ",
+                            "context": "India tour of England, 2022",
+                            "coverImage": {
+                                "id": "239058",
+                                "caption": "India's collapse came about swiftly as they lost their last four wickets for just 6 runs.",
+                                "source": "AFP"
+                            },
+                            "entitlements": {},
+                            "adsType": {}
+                        }
+                    },
+                    {
+                        "story": {
+                            "id": 123075,
+                            "hline": "Topley snaps six in England's series-levelling win over India at Lord's",
+                            "intro": "Topley, who picked 6 for 24, now has the best ever figures by an England bowler in ODI cricket",
+                            "pubTime": "1657826342702",
+                            "source": "Cricbuzz",
+                            "storyType": "Reports",
+                            "imageId": 238963,
+                            "seoHeadline": "Topley snaps six in England's series-leveling win over India at Lord's",
+                            "context": "England v India, 2nd ODI",
+                            "coverImage": {
+                                "id": "238963",
+                                "caption": "Topley, who picked 6 for 24, now has the best ever figures by an England bowler in ODI cricket",
+                                "source": "Getty"
+                            },
+                            "entitlements": {},
+                            "adsType": {}
+                        }
+                    }
+                ],
+                "lastUpdatedTime": "1742581370803",
+                "appIndex": {
+                    "seoTitle": "India tour of England, 2022 latest and breaking cricket news - Cricbuzz | Cricbuzz.com",
+                    "webURL": "http://www.cricbuzz.com/cricket-series/3636/india-tour-of-england-2022/news"
+                }
+            },
+            "squads": {
+                "squads": [
+                    {
+                        "squadType": "Test",
+                        "isHeader": true
+                    },
+                    {
+                        "squadId": 15821,
+                        "squadType": "Northern Knights",
+                        "imageId": 172343,
+                        "teamId": 294
+                    },
+                    {
+                        "squadId": 15826,
+                        "squadType": "Wellington",
+                        "imageId": 172364,
+                        "teamId": 314
+                    },
+                    {
+                        "squadId": 15831,
+                        "squadType": "Otago",
+                        "imageId": 172197,
+                        "teamId": 105
+                    },
+                    {
+                        "squadId": 15836,
+                        "squadType": "Auckland",
+                        "imageId": 172246,
+                        "teamId": 186
+                    },
+                    {
+                        "squadId": 15841,
+                        "squadType": "Canterbury",
+                        "imageId": 172362,
+                        "teamId": 312
+                    },
+                    {
+                        "squadId": 15846,
+                        "squadType": "Central Districts",
+                        "imageId": 172363,
+                        "teamId": 313
+                    }
+                ],
+                "appIndex": {
+                    "seoTitle": "Squads - Plunket Shield 2021-22 - Cricbuzz | Cricbuzz.com",
+                    "webURL": "www.cricbuzz.com/cricket-series/"
+                },
+                "seriesName": "Plunket Shield 2021-22",
+                "seriesId": 3718
+            },
+            "players": {
+                "player": [
+                    {
+                        "name": "BATTERS",
+                        "isHeader": true
+                    },
+                    {
+                        "id": "11172",
+                        "name": "Finn Allen",
+                        "role": "Batter",
+                        "imageId": 594254,
+                        "battingStyle": "Right-hand bat"
+                    },
+                    {
+                        "id": "14514",
+                        "name": "Troy Johnson",
+                        "role": "Batter",
+                        "imageId": 174146,
+                        "battingStyle": "Right-hand bat",
+                        "bowlingStyle": "Right-arm offbreak"
+                    },
+                    {
+                        "id": "15567",
+                        "name": "Nick Greenwood",
+                        "role": "Batter",
+                        "imageId": 174146,
+                        "battingStyle": "Right-hand bat"
+                    },
+                    {
+                        "id": "18567",
+                        "name": "James Hartshorn",
+                        "role": "Batter",
+                        "imageId": 174146,
+                        "battingStyle": "Right-hand bat",
+                        "bowlingStyle": "Right-arm medium"
+                    },
+                    {
+                        "name": "ALL ROUNDERS",
+                        "isHeader": true
+                    },
+                    {
+                        "id": "9551",
+                        "name": "Michael Bracewell",
+                        "captain": true,
+                        "role": "Batting Allrounder",
+                        "imageId": 616430,
+                        "battingStyle": "Left-hand bat",
+                        "bowlingStyle": "Right-arm offbreak"
+                    },
+                    {
+                        "id": "13364",
+                        "name": "Luke Georgeson",
+                        "role": "Batting Allrounder",
+                        "imageId": 156010,
+                        "battingStyle": "Left-hand bat",
+                        "bowlingStyle": "Right-arm fast-medium"
+                    },
+                    {
+                        "id": "10724",
+                        "name": "Jamie Gibson",
+                        "role": "Batting Allrounder",
+                        "imageId": 174146,
+                        "battingStyle": "Right-hand bat",
+                        "bowlingStyle": "Right-arm fast-medium"
+                    },
+                    {
+                        "id": "11177",
+                        "name": "Rachin Ravindra",
+                        "role": "Batting Allrounder",
+                        "imageId": 351609,
+                        "battingStyle": "Left-hand bat",
+                        "bowlingStyle": "Left-arm orthodox"
+                    },
+                    {
+                        "id": "13362",
+                        "name": "Jakob Bhula",
+                        "role": "Batting Allrounder",
+                        "imageId": 156122,
+                        "battingStyle": "Right-hand bat",
+                        "bowlingStyle": "Right-arm offbreak"
+                    },
+                    {
+                        "id": "11170",
+                        "name": "Nathan Smith",
+                        "role": "Bowling Allrounder",
+                        "imageId": 616429,
+                        "battingStyle": "Right-hand bat",
+                        "bowlingStyle": "Right-arm fast-medium"
+                    },
+                    {
+                        "name": "WICKET KEEPERS",
+                        "isHeader": true
+                    },
+                    {
+                        "id": "10717",
+                        "name": "Tom Blundell",
+                        "role": "WK-Batter",
+                        "imageId": 170757,
+                        "battingStyle": "Right-hand bat",
+                        "bowlingStyle": "Right-arm offbreak"
+                    },
+                    {
+                        "id": "13366",
+                        "name": "Callum McLachlan",
+                        "role": "WK-Batter",
+                        "imageId": 154911,
+                        "battingStyle": "Right-hand bat"
+                    },
+                    {
+                        "name": "BOWLERS",
+                        "isHeader": true
+                    },
+                    {
+                        "id": "9844",
+                        "name": "Ian McPeake",
+                        "role": "Bowler",
+                        "imageId": 174146,
+                        "battingStyle": "Right-hand bat",
+                        "bowlingStyle": "Right-arm fast-medium"
+                    },
+                    {
+                        "id": "10725",
+                        "name": "Ollie Newton",
+                        "role": "Bowler",
+                        "imageId": 174146,
+                        "battingStyle": "Left-hand bat",
+                        "bowlingStyle": "Right-arm medium"
+                    },
+                    {
+                        "id": "14343",
+                        "name": "Michael Snedden",
+                        "role": "Bowler",
+                        "imageId": 174146,
+                        "battingStyle": "Right-hand bat",
+                        "bowlingStyle": "Right-arm fast-medium"
+                    },
+                    {
+                        "id": "12215",
+                        "name": "Peter Younghusband",
+                        "role": "Bowler",
+                        "imageId": 165715,
+                        "battingStyle": "Right-hand bat",
+                        "bowlingStyle": "Right-arm legbreak"
+                    },
+                    {
+                        "id": "11178",
+                        "name": "Ben Sears",
+                        "role": "Bowler",
+                        "imageId": 174146,
+                        "battingStyle": "Right-hand bat",
+                        "bowlingStyle": "Right-arm fast-medium"
+                    }
+                ]
+            },
+            "venue": {
+                "seriesVenue": [
+                    {
+                        "id": 45,
+                        "ground": "Basin Reserve",
+                        "city": "Wellington",
+                        "country": "New Zealand",
+                        "imageId": "189174"
+                    },
+                    {
+                        "id": 371,
+                        "ground": "Hagley Oval",
+                        "city": "Christchurch",
+                        "country": "New Zealand",
+                        "imageId": "189174"
+                    },
+                    {
+                        "id": 116,
+                        "ground": "University Oval",
+                        "city": "Dunedin",
+                        "country": "New Zealand",
+                        "imageId": "189174"
+                    },
+                    {
+                        "id": 372,
+                        "ground": "Saxton Oval",
+                        "city": "Nelson",
+                        "country": "New Zealand",
+                        "imageId": "189174"
+                    },
+                    {
+                        "id": 393,
+                        "ground": "Bay Oval",
+                        "city": "Mount Maunganui",
+                        "country": "New Zealand",
+                        "imageId": "189174"
+                    },
+                    {
+                        "id": 418,
+                        "ground": "Eden Park Outer Oval",
+                        "city": "Auckland",
+                        "country": "New Zealand",
+                        "imageId": "189174"
+                    },
+                    {
+                        "id": 281,
+                        "ground": "Cobham Oval (New)",
+                        "city": "Whangarei",
+                        "country": "New Zealand",
+                        "imageId": "189174"
+                    },
+                    {
+                        "id": 423,
+                        "ground": "Molyneux Park",
+                        "city": "Alexandra",
+                        "country": "New Zealand",
+                        "imageId": "189174"
+                    },
+                    {
+                        "id": 44,
+                        "ground": "McLean Park",
+                        "city": "Napier",
+                        "country": "New Zealand",
+                        "imageId": "189174"
+                    },
+                    {
+                        "id": 505,
+                        "ground": "Cobham Oval",
+                        "city": "Whangarei",
+                        "country": "New Zealand",
+                        "imageId": "189174"
+                    },
+                    {
+                        "id": 424,
+                        "ground": "Fitzherbert Park",
+                        "city": "Palmerston North",
+                        "country": "New Zealand",
+                        "imageId": "189174"
+                    },
+                    {
+                        "id": 420,
+                        "ground": "Mainpower Oval",
+                        "city": "Rangiora",
+                        "country": "New Zealand",
+                        "imageId": "189174"
+                    },
+                    {
+                        "id": 269,
+                        "ground": "Bert Sutcliffe Oval",
+                        "city": "Lincoln",
+                        "country": "New Zealand",
+                        "imageId": "189174"
+                    }
+                ],
+                "appIndex": {
+                    "seoTitle": "Plunket Shield 2021-22 Venues and Grounds - Cricbuzz | Cricbuzz.com",
+                    "webURL": "www.cricbuzz.com/cricket-series/"
+                },
+                "seriesId": 3718,
+                "seriesName": "Plunket Shield 2021-22"
+            },
+            "statsfilter": {
+                "types": [
+                    {
+                        "header": "Batting"
+                    },
+                    {
+                        "value": "mostRuns",
+                        "header": "Most Runs",
+                        "category": "Batting"
+                    },
+                    {
+                        "value": "highestScore",
+                        "header": "Highest Scores",
+                        "category": "Batting"
+                    },
+                    {
+                        "value": "highestAvg",
+                        "header": "Best Batting Average",
+                        "category": "Batting"
+                    },
+                    {
+                        "value": "highestSr",
+                        "header": "Best Batting Strike Rate",
+                        "category": "Batting"
+                    },
+                    {
+                        "value": "mostHundreds",
+                        "header": "Most Hundreds",
+                        "category": "Batting"
+                    },
+                    {
+                        "value": "mostFifties",
+                        "header": "Most Fifties",
+                        "category": "Batting"
+                    },
+                    {
+                        "value": "mostFours",
+                        "header": "Most Fours",
+                        "category": "Batting"
+                    },
+                    {
+                        "value": "mostSixes",
+                        "header": "Most Sixes",
+                        "category": "Batting"
+                    },
+                    {
+                        "value": "mostNineties",
+                        "header": "Most Nineties",
+                        "category": "Batting"
+                    },
+                    {
+                        "header": "Bowling"
+                    },
+                    {
+                        "value": "mostWickets",
+                        "header": "Most Wickets",
+                        "category": "Bowling"
+                    },
+                    {
+                        "value": "lowestAvg",
+                        "header": "Best Bowling Average",
+                        "category": "Bowling"
+                    },
+                    {
+                        "value": "bestBowlingInnings",
+                        "header": "Best Bowling ",
+                        "category": "Bowling"
+                    },
+                    {
+                        "value": "mostFiveWickets",
+                        "header": "Most 5 Wickets Haul",
+                        "category": "Bowling"
+                    },
+                    {
+                        "value": "lowestEcon",
+                        "header": "Best Economy",
+                        "category": "Bowling"
+                    },
+                    {
+                        "value": "lowestSr",
+                        "header": "Best Bowling Strike Rate",
+                        "category": "Bowling"
+                    }
+                ],
+                "appIndex": {
+                    "seoTitle": "Plunket Shield 2021-22 Statistics - Cricbuzz | Cricbuzz.com",
+                    "webURL": "http://www.cricbuzz.com/cricket-series/3718/plunket-shield-2021-22/stats"
+                }
+            },
+            "stats": {
+                "testStatsList": {
+                    "headers": [
+                        "Batter",
+                        "M",
+                        "I",
+                        "R",
+                        "Avg"
+                    ],
+                    "values": [
+                        {
+                            "values": [
+                                "10701",
+                                "Tom Bruce",
+                                "8",
+                                "13",
+                                "858",
+                                "143.00"
+                            ]
+                        },
+                        {
+                            "values": [
+                                "10745",
+                                "Nick Kelly",
+                                "8",
+                                "15",
+                                "675",
+                                "51.92"
+                            ]
+                        },
+                        {
+                            "values": [
+                                "2255",
+                                "Rutherford",
+                                "7",
+                                "13",
+                                "593",
+                                "45.62"
+                            ]
+                        },
+                        {
+                            "values": [
+                                "11176",
+                                "Dale Phillips",
+                                "8",
+                                "15",
+                                "587",
+                                "45.15"
+                            ]
+                        },
+                        {
+                            "values": [
+                                "8516",
+                                "Bowes",
+                                "7",
+                                "13",
+                                "570",
+                                "43.85"
+                            ]
+                        },
+                        {
+                            "values": [
+                                "13156",
+                                "Schmulian",
+                                "8",
+                                "13",
+                                "541",
+                                "41.62"
+                            ]
+                        },
+                        {
+                            "values": [
+                                "8559",
+                                "Robert ODonnell",
+                                "6",
+                                "9",
+                                "539",
+                                "67.38"
+                            ]
+                        },
+                        {
+                            "values": [
+                                "10691",
+                                "Jeet Raval",
+                                "6",
+                                "11",
+                                "491",
+                                "44.64"
+                            ]
+                        },
+                        {
+                            "values": [
+                                "11366",
+                                "Mitch Renwick",
+                                "8",
+                                "15",
+                                "467",
+                                "33.36"
+                            ]
+                        },
+                        {
+                            "values": [
+                                "10697",
+                                "McConchie",
+                                "8",
+                                "14",
+                                "445",
+                                "34.23"
+                            ]
+                        },
+                        {
+                            "values": [
+                                "10702",
+                                "Greg Hay",
+                                "7",
+                                "12",
+                                "403",
+                                "40.30"
+                            ]
+                        },
+                        {
+                            "values": [
+                                "10698",
+                                "Cleaver",
+                                "7",
+                                "12",
+                                "393",
+                                "39.30"
+                            ]
+                        },
+                        {
+                            "values": [
+                                "14514",
+                                "Troy Johnson",
+                                "5",
+                                "9",
+                                "389",
+                                "55.57"
+                            ]
+                        },
+                        {
+                            "values": [
+                                "8555",
+                                "Cam Fletcher",
+                                "7",
+                                "12",
+                                "364",
+                                "40.44"
+                            ]
+                        },
+                        {
+                            "values": [
+                                "1457",
+                                "Martin Guptill",
+                                "3",
+                                "6",
+                                "358",
+                                "59.67"
+                            ]
+                        }
+                    ]
+                },
+                "appIndex": {
+                    "seoTitle": "Plunket Shield 2021-22 Statistics - Cricbuzz | Cricbuzz.com",
+                    "webURL": "http://www.cricbuzz.com/cricket-series/3718/plunket-shield-2021-22/stats"
+                },
+                "filter": {
+                    "matchtype": [
+                        {
+                            "matchTypeId": "1",
+                            "matchTypeDesc": "test"
+                        }
+                    ]
+                }
+            }
+        },
+        "schedule": {
+            "matchScheduleMap": [
+                {
+                    "scheduleAdWrapper": {
+                        "date": "SAT, MAR 22 2025",
+                        "matchScheduleList": [
+                            {
+                                "seriesName": "Canada tour of Namibia, 2025",
+                                "matchInfo": [
+                                    {
+                                        "matchId": 116290,
+                                        "seriesId": 9523,
+                                        "matchDesc": "4th T20I",
+                                        "matchFormat": "T20",
+                                        "startDate": "1742644800000",
+                                        "endDate": "1742687999000",
+                                        "team1": {
+                                            "teamId": 161,
+                                            "teamName": "Namibia",
+                                            "teamSName": "NAM",
+                                            "imageId": 172229
+                                        },
+                                        "team2": {
+                                            "teamId": 26,
+                                            "teamName": "Canada",
+                                            "teamSName": "CAN",
+                                            "imageId": 172140
+                                        },
+                                        "venueInfo": {
+                                            "ground": "Namibia Cricket Ground",
+                                            "city": " Windhoek",
+                                            "country": "Namibia",
+                                            "timezone": "+02:00"
+                                        }
+                                    }
+                                ],
+                                "seriesId": 9523,
+                                "seriesCategory": "International"
+                            }
+                        ],
+                        "longDate": "1742601600000"
+                    }
+                },
+                {
+                    "adDetail": {
+                        "name": "native_news_index_random_1",
+                        "layout": "native_large",
+                        "position": 1
+                    }
+                },
+                {
+                    "scheduleAdWrapper": {
+                        "date": "SUN, MAR 23 2025",
+                        "matchScheduleList": [
+                            {
+                                "seriesName": "Canada tour of Namibia, 2025",
+                                "matchInfo": [
+                                    {
+                                        "matchId": 116292,
+                                        "seriesId": 9523,
+                                        "matchDesc": "5th T20I",
+                                        "matchFormat": "T20",
+                                        "startDate": "1742731200000",
+                                        "endDate": "1742774399000",
+                                        "team1": {
+                                            "teamId": 161,
+                                            "teamName": "Namibia",
+                                            "teamSName": "NAM",
+                                            "imageId": 172229
+                                        },
+                                        "team2": {
+                                            "teamId": 26,
+                                            "teamName": "Canada",
+                                            "teamSName": "CAN",
+                                            "imageId": 172140
+                                        },
+                                        "venueInfo": {
+                                            "ground": "Namibia Cricket Ground",
+                                            "city": " Windhoek",
+                                            "country": "Namibia",
+                                            "timezone": "+02:00"
+                                        }
+                                    }
+                                ],
+                                "seriesId": 9523,
+                                "seriesCategory": "International"
+                            },
+                            {
+                                "seriesName": "Pakistan tour of New Zealand, 2025",
+                                "matchInfo": [
+                                    {
+                                        "matchId": 102085,
+                                        "seriesId": 8562,
+                                        "matchDesc": "4th T20I",
+                                        "matchFormat": "T20",
+                                        "startDate": "1742710500000",
+                                        "endDate": "1742774399000",
+                                        "team1": {
+                                            "teamId": 13,
+                                            "teamName": "New Zealand",
+                                            "teamSName": "NZ",
+                                            "isFullMember": true,
+                                            "imageId": 172128
+                                        },
+                                        "team2": {
+                                            "teamId": 3,
+                                            "teamName": "Pakistan",
+                                            "teamSName": "PAK",
+                                            "isFullMember": true,
+                                            "imageId": 591986
+                                        },
+                                        "venueInfo": {
+                                            "ground": "Bay Oval",
+                                            "city": "Mount Maunganui",
+                                            "country": "New Zealand",
+                                            "timezone": "+13:00"
+                                        }
+                                    }
+                                ],
+                                "seriesId": 8562,
+                                "seriesHomeCountry": 1,
+                                "seriesCategory": "International"
+                            }
+                        ],
+                        "longDate": "1742688000000"
+                    }
+                },
+                {
+                    "scheduleAdWrapper": {
+                        "date": "WED, MAR 26 2025",
+                        "matchScheduleList": [
+                            {
+                                "seriesName": "Pakistan tour of New Zealand, 2025",
+                                "matchInfo": [
+                                    {
+                                        "matchId": 102094,
+                                        "seriesId": 8562,
+                                        "matchDesc": "5th T20I",
+                                        "matchFormat": "T20",
+                                        "startDate": "1742969700000",
+                                        "endDate": "1743033599000",
+                                        "team1": {
+                                            "teamId": 13,
+                                            "teamName": "New Zealand",
+                                            "teamSName": "NZ",
+                                            "isFullMember": true,
+                                            "imageId": 172128
+                                        },
+                                        "team2": {
+                                            "teamId": 3,
+                                            "teamName": "Pakistan",
+                                            "teamSName": "PAK",
+                                            "isFullMember": true,
+                                            "imageId": 591986
+                                        },
+                                        "venueInfo": {
+                                            "ground": "Sky Stadium",
+                                            "city": "Wellington",
+                                            "country": "New Zealand",
+                                            "timezone": "+13:00"
+                                        }
+                                    }
+                                ],
+                                "seriesId": 8562,
+                                "seriesHomeCountry": 1,
+                                "seriesCategory": "International"
+                            }
+                        ],
+                        "longDate": "1742947200000"
+                    }
+                },
+                {
+                    "scheduleAdWrapper": {
+                        "date": "SAT, MAR 29 2025",
+                        "matchScheduleList": [
+                            {
+                                "seriesName": "Pakistan tour of New Zealand, 2025",
+                                "matchInfo": [
+                                    {
+                                        "matchId": 102103,
+                                        "seriesId": 8562,
+                                        "matchDesc": "1st ODI",
+                                        "matchFormat": "ODI",
+                                        "startDate": "1743199200000",
+                                        "endDate": "1743292799000",
+                                        "team1": {
+                                            "teamId": 13,
+                                            "teamName": "New Zealand",
+                                            "teamSName": "NZ",
+                                            "isFullMember": true,
+                                            "imageId": 172128
+                                        },
+                                        "team2": {
+                                            "teamId": 3,
+                                            "teamName": "Pakistan",
+                                            "teamSName": "PAK",
+                                            "isFullMember": true,
+                                            "imageId": 591986
+                                        },
+                                        "venueInfo": {
+                                            "ground": "McLean Park",
+                                            "city": "Napier",
+                                            "country": "New Zealand",
+                                            "timezone": "+13:00"
+                                        }
+                                    }
+                                ],
+                                "seriesId": 8562,
+                                "seriesHomeCountry": 1,
+                                "seriesCategory": "International"
+                            }
+                        ],
+                        "longDate": "1743206400000"
+                    }
+                },
+                {
+                    "adDetail": {
+                        "name": "native_news_index_random_2",
+                        "layout": "native_large",
+                        "position": 4
+                    }
+                },
+                {
+                    "scheduleAdWrapper": {
+                        "date": "WED, APR 02 2025",
+                        "matchScheduleList": [
+                            {
+                                "seriesName": "Pakistan tour of New Zealand, 2025",
+                                "matchInfo": [
+                                    {
+                                        "matchId": 102108,
+                                        "seriesId": 8562,
+                                        "matchDesc": "2nd ODI",
+                                        "matchFormat": "ODI",
+                                        "startDate": "1743544800000",
+                                        "endDate": "1743638399000",
+                                        "team1": {
+                                            "teamId": 13,
+                                            "teamName": "New Zealand",
+                                            "teamSName": "NZ",
+                                            "isFullMember": true,
+                                            "imageId": 172128
+                                        },
+                                        "team2": {
+                                            "teamId": 3,
+                                            "teamName": "Pakistan",
+                                            "teamSName": "PAK",
+                                            "isFullMember": true,
+                                            "imageId": 591986
+                                        },
+                                        "venueInfo": {
+                                            "ground": "Seddon Park",
+                                            "city": "Hamilton",
+                                            "country": "New Zealand",
+                                            "timezone": "+13:00"
+                                        }
+                                    }
+                                ],
+                                "seriesId": 8562,
+                                "seriesHomeCountry": 1,
+                                "seriesCategory": "International"
+                            }
+                        ],
+                        "longDate": "1743552000000"
+                    }
+                }
+            ],
+            "startDt": [
+                "1742644800000",
+                "1742710500000",
+                "1742731200000",
+                "1742969700000",
+                "1743199200000",
+                "1743544800000",
+                "1743804000000",
+                "1744029000000",
+                "1744115400000",
+                "1744201800000",
+                "1745121600000",
+                "1745812800000",
+                "1747820700000",
+                "1747908000000",
+                "1747993500000",
+                "1748166300000",
+                "1748520000000",
+                "1748772000000",
+                "1748952000000",
+                "1749231000000",
+                "1749389400000",
+                "1749576600000",
+                "1749636000000",
+                "1749736800000",
+                "1749909600000",
+                "1749996000000",
+                "1750413600000",
+                "1750860000000",
+                "1751450400000",
+                "1751551200000",
+                "1752141600000",
+                "1752328800000",
+                "1752951600000",
+                "1753210800000",
+                "1753264800000",
+                "1753383600000",
+                "1753470000000",
+                "1753642800000",
+                "1753956000000",
+                "1753974000000",
+                "1754146800000",
+                "1754233200000",
+                "1754661600000",
+                "1754834400000",
+                "1755007200000",
+                "1756814400000",
+                "1756987200000",
+                "1757239200000",
+                "1757525400000",
+                "1757698200000",
+                "1757856600000",
+                "1758102300000",
+                "1758275100000",
+                "1758447900000",
+                "1763692200000",
+                "1764820800000",
+                "1765929600000",
+                "1766707200000",
+                "1767484800000",
+                "1769529600000",
+                "1769702400000",
+                "1769949000000",
+                "1770220800000",
+                "1770393600000"
+            ],
+            "appIndex": {
+                "seoTitle": "Cricket Schedule - International, domestic and T20 matches - Cricbuzz",
+                "webURL": "www.cricbuzz.com/cricket-schedule/series"
+            }
+        },
+        "team":{
+            "list":{
+                "list":[{"teamName":"Test Teams"},{"teamId":2,"teamName":"India","teamSName":"IND","imageId":172115,"countryName":"India"},{"teamId":96,"teamName":"Afghanistan","teamSName":"AFG","imageId":172188},{"teamId":27,"teamName":"Ireland","teamSName":"IRE","imageId":495001},{"teamId":3,"teamName":"Pakistan","teamSName":"PAK","imageId":591986,"countryName":"Pakistan"},{"teamId":4,"teamName":"Australia","teamSName":"AUS","imageId":172117,"countryName":"Australia"},{"teamId":5,"teamName":"Sri Lanka","teamSName":"SL","imageId":172119,"countryName":"Sri Lanka"},{"teamId":6,"teamName":"Bangladesh","teamSName":"BAN","imageId":172120},{"teamId":9,"teamName":"England","teamSName":"ENG","imageId":172123},{"teamId":10,"teamName":"West Indies","teamSName":"WI","imageId":172124},{"teamId":11,"teamName":"South Africa","teamSName":"RSA","imageId":172126},{"teamId":12,"teamName":"Zimbabwe","teamSName":"ZIM","imageId":172127},{"teamId":13,"teamName":"New Zealand","teamSName":"NZ","imageId":172128},{"teamName":"Associate Teams"},{"teamId":71,"teamName":"Malaysia","teamSName":"MLY","imageId":172168},{"teamId":72,"teamName":"Nepal","teamSName":"NEP","imageId":172169},{"teamId":77,"teamName":"Germany","teamSName":"GER","imageId":172171},{"teamId":161,"teamName":"Namibia","teamSName":"NAM","imageId":172229},{"teamId":185,"teamName":"Denmark","teamSName":"DEN","imageId":172245},{"teamId":190,"teamName":"Singapore","teamSName":"SIN","imageId":172250},{"teamId":287,"teamName":"Papua New Guinea","teamSName":"PNG","imageId":172336},{"teamId":298,"teamName":"Kuwait","teamSName":"KUW","imageId":248427},{"teamId":300,"teamName":"Vanuatu","teamSName":"VAN","imageId":172349},{"teamId":303,"teamName":"Jersey","teamSName":"JER","imageId":172352},{"teamId":304,"teamName":"Oman","teamSName":"OMAN","imageId":172353},{"teamId":343,"teamName":"Fiji","teamSName":"FIJI","imageId":172391},{"teamId":527,"teamName":"Italy","teamSName":"ITA","imageId":172577},{"teamId":529,"teamName":"Botswana","teamSName":"BW","imageId":172579},{"teamId":541,"teamName":"Belgium","teamSName":"BEL","imageId":172592},{"teamId":44,"teamName":"Uganda","teamSName":"UGA","imageId":495000},{"teamId":26,"teamName":"Canada","teamSName":"CAN","imageId":172140},{"teamId":7,"teamName":"United Arab Emirates","teamSName":"UAE","imageId":172121},{"teamId":8,"teamName":"Hong Kong","teamSName":"HK","imageId":172122},{"teamId":14,"teamName":"Kenya","teamSName":"KEN","imageId":172129},{"teamId":15,"teamName":"United States of America","teamSName":"USA","imageId":172130,"countryName":"United States of America"},{"teamId":23,"teamName":"Scotland","teamSName":"SCO","imageId":172137},{"teamId":24,"teamName":"Netherlands","teamSName":"NED","imageId":172138},{"teamId":25,"teamName":"Bermuda","teamSName":"BER","imageId":172139},{"teamId":675,"teamName":"Iran","teamSName":"IRN","imageId":188163}],"appIndex":{"seoTitle":"Live cricket scores, schedule, news, archive, series | Cricbuzz.com","webURL":"www.cricbuzz.com/cricket-team/"}
+            },
+            "schedule":{
+                "teamMatchesData":[{"matchDetailsMap":{"key":"India tour of England, 2025","match":[{"matchInfo":{"matchId":105762,"seriesId":8786,"seriesName":"India tour of England, 2025","matchDesc":"1st Test","matchFormat":"TEST","startDate":"1750413600000","endDate":"1750784400000","state":"Upcoming","status":"Match starts at Jun 20, 10:00 GMT","team1":{"teamId":9,"teamName":"England","teamSName":"ENG","imageId":172123},"team2":{"teamId":2,"teamName":"India","teamSName":"IND","imageId":172115},"venueInfo":{"id":66,"ground":"Headingley","city":"Leeds","timezone":"+01:00"},"seriesStartDt":"1750377600000","seriesEndDt":"1754438400000","isTimeAnnounced":true}},{"matchInfo":{"matchId":105770,"seriesId":8786,"seriesName":"India tour of England, 2025","matchDesc":"2nd Test","matchFormat":"TEST","startDate":"1751450400000","endDate":"1751821200000","state":"Upcoming","status":"Match starts at Jul 02, 10:00 GMT","team1":{"teamId":9,"teamName":"England","teamSName":"ENG","imageId":172123},"team2":{"teamId":2,"teamName":"India","teamSName":"IND","imageId":172115},"venueInfo":{"id":20,"ground":"Edgbaston","city":"Birmingham","timezone":"+01:00"},"seriesStartDt":"1750377600000","seriesEndDt":"1754438400000","isTimeAnnounced":true}},{"matchInfo":{"matchId":105772,"seriesId":8786,"seriesName":"India tour of England, 2025","matchDesc":"3rd Test","matchFormat":"TEST","startDate":"1752141600000","endDate":"1752512400000","state":"Upcoming","status":"Match starts at Jul 10, 10:00 GMT","team1":{"teamId":9,"teamName":"England","teamSName":"ENG","imageId":172123},"team2":{"teamId":2,"teamName":"India","teamSName":"IND","imageId":172115},"venueInfo":{"id":19,"ground":"Lord's","city":"London","timezone":"+01:00"},"seriesStartDt":"1750377600000","seriesEndDt":"1754438400000","isTimeAnnounced":true}},{"matchInfo":{"matchId":105778,"seriesId":8786,"seriesName":"India tour of England, 2025","matchDesc":"4th Test","matchFormat":"TEST","startDate":"1753264800000","endDate":"1753635600000","state":"Upcoming","status":"Match starts at Jul 23, 10:00 GMT","team1":{"teamId":9,"teamName":"England","teamSName":"ENG","imageId":172123},"team2":{"teamId":2,"teamName":"India","teamSName":"IND","imageId":172115},"venueInfo":{"id":65,"ground":"Emirates Old Trafford","city":"Manchester","timezone":"+01:00"},"seriesStartDt":"1750377600000","seriesEndDt":"1754438400000","isTimeAnnounced":true}},{"matchInfo":{"matchId":105780,"seriesId":8786,"seriesName":"India tour of England, 2025","matchDesc":"5th Test","matchFormat":"TEST","startDate":"1753956000000","endDate":"1754326800000","state":"Upcoming","status":"Match starts at Jul 31, 10:00 GMT","team1":{"teamId":9,"teamName":"England","teamSName":"ENG","imageId":172123},"team2":{"teamId":2,"teamName":"India","teamSName":"IND","imageId":172115},"venueInfo":{"id":12,"ground":"Kennington Oval","city":"London","timezone":"+01:00"},"seriesStartDt":"1750377600000","seriesEndDt":"1754438400000","isTimeAnnounced":true}}],"seriesId":8786}},{"adDetail":{"name":"native_news_index_random_1","layout":"native_large","position":1}}],"appIndex":{"seoTitle":"India Cricket Team live scores, fixtures - Cricbuzz | Cricbuzz.com","webURL":"www.cricbuzz.com/cricket-team/"}
+            },
+            "result":{
+                "teamMatchesData":[{"matchDetailsMap":{"key":"ICC Champions Trophy, 2025","match":[{"matchInfo":{"matchId":112469,"seriesId":9325,"seriesName":"ICC Champions Trophy, 2025","matchDesc":"Final","matchFormat":"ODI","startDate":"1741510800000","endDate":"1741539600000","state":"Complete","status":"India won by 4 wkts","team1":{"teamId":13,"teamName":"New Zealand","teamSName":"NZ","imageId":172128},"team2":{"teamId":2,"teamName":"India","teamSName":"IND","imageId":172115},"venueInfo":{"id":153,"ground":"Dubai International Cricket Stadium","city":"Dubai","timezone":"+04:00"},"currBatTeamId":2,"seriesStartDt":"1739923200000","seriesEndDt":"1741651200000","isTimeAnnounced":true},"matchScore":{"team1Score":{"inngs1":{"inningsId":1,"runs":251,"wickets":7,"overs":50.0}},"team2Score":{"inngs1":{"inningsId":2,"runs":254,"wickets":6,"overs":49.0}}}},{"matchInfo":{"matchId":112462,"seriesId":9325,"seriesName":"ICC Champions Trophy, 2025","matchDesc":"1st Semi-Final (A1 v B2)","matchFormat":"ODI","startDate":"1741078800000","endDate":"1741107600000","state":"Complete","status":"India won by 4 wkts","team1":{"teamId":4,"teamName":"Australia","teamSName":"AUS","imageId":172117},"team2":{"teamId":2,"teamName":"India","teamSName":"IND","imageId":172115},"venueInfo":{"id":153,"ground":"Dubai International Cricket Stadium","city":"Dubai","timezone":"+04:00"},"currBatTeamId":2,"seriesStartDt":"1739923200000","seriesEndDt":"1741651200000","isTimeAnnounced":true},"matchScore":{"team1Score":{"inngs1":{"inningsId":1,"runs":264,"wickets":10,"overs":49.3}},"team2Score":{"inngs1":{"inningsId":2,"runs":267,"wickets":6,"overs":48.1}}}},{"matchInfo":{"matchId":112455,"seriesId":9325,"seriesName":"ICC Champions Trophy, 2025","matchDesc":"12th Match, Group A","matchFormat":"ODI","startDate":"1740906000000","endDate":"1740934800000","state":"Complete","status":"India won by 44 runs","team1":{"teamId":2,"teamName":"India","teamSName":"IND","imageId":172115},"team2":{"teamId":13,"teamName":"New Zealand","teamSName":"NZ","imageId":172128},"venueInfo":{"id":153,"ground":"Dubai International Cricket Stadium","city":"Dubai","timezone":"+04:00"},"currBatTeamId":2,"seriesStartDt":"1739923200000","seriesEndDt":"1741651200000","isTimeAnnounced":true},"matchScore":{"team1Score":{"inngs1":{"inningsId":1,"runs":249,"wickets":9,"overs":50.0}},"team2Score":{"inngs1":{"inningsId":2,"runs":205,"wickets":10,"overs":45.3}}}},{"matchInfo":{"matchId":112420,"seriesId":9325,"seriesName":"ICC Champions Trophy, 2025","matchDesc":"5th Match, Group A","matchFormat":"ODI","startDate":"1740301200000","endDate":"1740330000000","state":"Complete","status":"India won by 6 wkts","team1":{"teamId":3,"teamName":"Pakistan","teamSName":"PAK","imageId":591986},"team2":{"teamId":2,"teamName":"India","teamSName":"IND","imageId":172115},"venueInfo":{"id":153,"ground":"Dubai International Cricket Stadium","city":"Dubai","timezone":"+04:00"},"currBatTeamId":2,"seriesStartDt":"1739923200000","seriesEndDt":"1741651200000","isTimeAnnounced":true},"matchScore":{"team1Score":{"inngs1":{"inningsId":1,"runs":241,"wickets":10,"overs":49.4}},"team2Score":{"inngs1":{"inningsId":2,"runs":244,"wickets":4,"overs":42.3}}}},{"matchInfo":{"matchId":112402,"seriesId":9325,"seriesName":"ICC Champions Trophy, 2025","matchDesc":"2nd Match, Group A","matchFormat":"ODI","startDate":"1740042000000","endDate":"1740070800000","state":"Complete","status":"India won by 6 wkts","team1":{"teamId":6,"teamName":"Bangladesh","teamSName":"BAN","imageId":172120},"team2":{"teamId":2,"teamName":"India","teamSName":"IND","imageId":172115},"venueInfo":{"id":153,"ground":"Dubai International Cricket Stadium","city":"Dubai","timezone":"+04:00"},"currBatTeamId":2,"seriesStartDt":"1739923200000","seriesEndDt":"1741651200000","isTimeAnnounced":true},"matchScore":{"team1Score":{"inngs1":{"inningsId":1,"runs":228,"wickets":10,"overs":49.4}},"team2Score":{"inngs1":{"inningsId":2,"runs":231,"wickets":4,"overs":46.3}}}}],"seriesId":9325}},{"adDetail":{"name":"native_news_index_random_1","layout":"native_large","position":1}},{"matchDetailsMap":{"key":"England tour of India, 2025","match":[{"matchInfo":{"matchId":100328,"seriesId":8402,"seriesName":"England tour of India, 2025","matchDesc":"3rd ODI","matchFormat":"ODI","startDate":"1739347200000","endDate":"1739376000000","state":"Complete","status":"India won by 142 runs","team1":{"teamId":2,"teamName":"India","teamSName":"IND","imageId":172115},"team2":{"teamId":9,"teamName":"England","teamSName":"ENG","imageId":172123},"venueInfo":{"id":50,"ground":"Narendra Modi Stadium","city":"Ahmedabad","timezone":"+05:30"},"currBatTeamId":2,"seriesStartDt":"1737504000000","seriesEndDt":"1739491200000","isTimeAnnounced":true},"matchScore":{"team1Score":{"inngs1":{"inningsId":1,"runs":356,"wickets":10,"overs":50.0}},"team2Score":{"inngs1":{"inningsId":2,"runs":214,"wickets":10,"overs":34.2}}}},{"matchInfo":{"matchId":100321,"seriesId":8402,"seriesName":"England tour of India, 2025","matchDesc":"2nd ODI","matchFormat":"ODI","startDate":"1739088000000","endDate":"1739116800000","state":"Complete","status":"India won by 4 wkts","team1":{"teamId":9,"teamName":"England","teamSName":"ENG","imageId":172123},"team2":{"teamId":2,"teamName":"India","teamSName":"IND","imageId":172115},"venueInfo":{"id":103,"ground":"Barabati Stadium","city":"Cuttack","timezone":"+05:30"},"currBatTeamId":2,"seriesStartDt":"1737504000000","seriesEndDt":"1739491200000","isTimeAnnounced":true},"matchScore":{"team1Score":{"inngs1":{"inningsId":1,"runs":304,"wickets":10,"overs":49.5}},"team2Score":{"inngs1":{"inningsId":2,"runs":308,"wickets":6,"overs":44.3}}}},{"matchInfo":{"matchId":100312,"seriesId":8402,"seriesName":"England tour of India, 2025","matchDesc":"1st ODI","matchFormat":"ODI","startDate":"1738828800000","endDate":"1738857600000","state":"Complete","status":"India won by 4 wkts","team1":{"teamId":9,"teamName":"England","teamSName":"ENG","imageId":172123},"team2":{"teamId":2,"teamName":"India","teamSName":"IND","imageId":172115},"venueInfo":{"id":228,"ground":"Vidarbha Cricket Association Stadium","city":"Nagpur","timezone":"+05:30"},"currBatTeamId":2,"seriesStartDt":"1737504000000","seriesEndDt":"1739491200000","isTimeAnnounced":true},"matchScore":{"team1Score":{"inngs1":{"inningsId":1,"runs":248,"wickets":10,"overs":47.4}},"team2Score":{"inngs1":{"inningsId":2,"runs":251,"wickets":6,"overs":38.4}}}},{"matchInfo":{"matchId":100310,"seriesId":8402,"seriesName":"England tour of India, 2025","matchDesc":"5th T20I","matchFormat":"T20","startDate":"1738503000000","endDate":"1738515600000","state":"Complete","status":"India won by 150 runs","team1":{"teamId":2,"teamName":"India","teamSName":"IND","imageId":172115},"team2":{"teamId":9,"teamName":"England","teamSName":"ENG","imageId":172123},"venueInfo":{"id":81,"ground":"Wankhede Stadium","city":"Mumbai","timezone":"+05:30"},"currBatTeamId":2,"seriesStartDt":"1737504000000","seriesEndDt":"1739491200000","isTimeAnnounced":true},"matchScore":{"team1Score":{"inngs1":{"inningsId":1,"runs":247,"wickets":9,"overs":20.0}},"team2Score":{"inngs1":{"inningsId":2,"runs":97,"wickets":10,"overs":10.3}}}},{"matchInfo":{"matchId":100301,"seriesId":8402,"seriesName":"England tour of India, 2025","matchDesc":"4th T20I","matchFormat":"T20","startDate":"1738330200000","endDate":"1738342800000","state":"Complete","status":"India won by 15 runs","team1":{"teamId":2,"teamName":"India","teamSName":"IND","imageId":172115},"team2":{"teamId":9,"teamName":"England","teamSName":"ENG","imageId":172123},"venueInfo":{"id":287,"ground":"Maharashtra Cricket Association Stadium","city":"Pune","timezone":"+05:30"},"currBatTeamId":2,"seriesStartDt":"1737504000000","seriesEndDt":"1739491200000","isTimeAnnounced":true},"matchScore":{"team1Score":{"inngs1":{"inningsId":1,"runs":181,"wickets":9,"overs":20.0}},"team2Score":{"inngs1":{"inningsId":2,"runs":166,"wickets":10,"overs":19.4}}}}],"seriesId":8402}}],"appIndex":{"seoTitle":"India Cricket Team live scores, fixtures - Cricbuzz | Cricbuzz.com","webURL":"www.cricbuzz.com/cricket-team/"}
+            },
+            "news":{
+                "storyList":[{"story":{"id":133785,"hline":"No dilution in SOPs, says BCCI","intro":"BCCI secretary Devajit Saikia mentioned that the Board is open to relaxing the family clause in special cases, but will follow the established process for consideration.","pubTime":"1742375007331","source":"Cricbuzz","storyType":"News","imageId":626022,"seoHeadline":"No dilution in SOPs, says BCCI","context":"Indian cricket news","coverImage":{"id":"626022","caption":"The newly formulated SOPs for the Indian team will remain unchanged.","source":"Getty"},"entitlements":{},"adsType":{}}},{"ad":{"name":"native_news_index","layout":"native_large","position":1}},{"story":{"id":133733,"hline":"What lies ahead for Rohit Sharma?","intro":"After the Champions Trophy triumph, Rohit had confirmed that he would not be retiring from ODIs","pubTime":"1741786996980","source":"Cricbuzz","storyType":"News","imageId":625749,"seoHeadline":"What lies ahead for Rohit Sharma?","context":"Rohit's Future","coverImage":{"id":"625749","caption":"Rohit Sharma poses with the Champions Trophy in Dubai","source":"Getty"},"entitlements":{},"adsType":{}}},{"story":{"id":133732,"hline":"Syed Abid Ali passes away at 83","intro":"The medium-pacer, also known for excellent fielding, played 29 Tests for India","pubTime":"1741780842921","source":"Cricbuzz","storyType":"News","imageId":625738,"seoHeadline":"Syed Abid Ali passes away at 83","context":"RIP","coverImage":{"id":"625738","caption":"Syed Abid Ali played 29 Tests and 5 ODIs for India","source":"Getty"},"entitlements":{},"adsType":{}}},{"story":{"id":133717,"hline":"KL Rahul the unsung hero proves his worth ","intro":"The wicketkeeper batter produced underrated gems in both the knockout games.","pubTime":"1741568761865","source":"Cricbuzz","storyType":"Features","imageId":625544,"seoHeadline":"KL Rahul the unsung hero proves his worth","context":"ICC Champions Trophy 2025","coverImage":{"id":"625544","caption":"In the semifinal and final, KL Rahul came up with calm, unbeaten knocks.","source":"Getty"},"entitlements":{},"adsType":{}}},{"story":{"id":133715,"hline":"The cup, the ghosts and the calm within the storm","intro":"Very comfortable at one point, Champions Trophy final took a twisted turn for India before they restored the order once more","pubTime":"1741545239743","source":"Cricbuzz","storyType":"Features","imageId":625512,"seoHeadline":"The cup, the ghosts and the calm within the storm India Rohit Sharma KL Rahul","context":"Champions Trophy 2025","coverImage":{"id":"625512","caption":"\"Brilliant, calm, composed\" - Hardik Pandya on KL Rahul.","source":"AFP"},"entitlements":{},"adsType":{}}},{"ad":{"name":"native_news_index_2","layout":"native_large","position":5}},{"story":{"id":133714,"hline":"Rohit Sharma confirms he's not retiring from ODIs","intro":"The India skipper announced his desire to continue in the 50-over format after leading the team to Champions Trophy 2025 glory","pubTime":"1741544051014","source":"Cricbuzz","storyType":"News","imageId":625506,"seoHeadline":"Rohit Sharma confirms he's not retiring from ODIs","context":"Going Nowhere","coverImage":{"id":"625506","caption":"\"I want to clarify that I am not going anywhere, I am not retiring from this format,\" Rohit said in the press conference after the CT 2025 victory","source":"AFP"},"entitlements":{},"adsType":{}}},{"story":{"id":133713,"hline":"'Wanted to bounce back after a tough Australia tour' - Kohli","intro":"Reactions from Indian players after they clinched the Champions Trophy in Dubai","pubTime":"1741541837014","source":"Cricbuzz","storyType":"News","imageId":625442,"seoHeadline":"'Wanted to bounce back after a tough Australia tour' - Kohli","context":"2025 Champions Trophy","coverImage":{"id":"625442","caption":"India won by 4 wickets in the final.","source":"Getty"},"entitlements":{},"adsType":{}}},{"story":{"id":133712,"hline":"India lift third Champions Trophy as Rohit, Rahul steer thrilling chase","intro":"India chased down New Zealand's 251 with four wickets and one over to spare","pubTime":"1741538275943","source":"Cricbuzz","storyType":"Reports","imageId":625427,"seoHeadline":"India crowned champions after pipping New Zealand in a tense final","context":"Champions Trophy 2025","coverImage":{"id":"625427","caption":"India team celebrate their third Champions Trophy triumph.","source":"AFP"},"entitlements":{},"adsType":{}}},{"story":{"id":133711,"hline":"Spin quartet keep New Zealand to 251 in CT final","intro":"Daryl Mitchell and Michael Bracewell scored contrasting half-centuries for New Zealand ","pubTime":"1741523838543","source":"Cricbuzz","storyType":"Reports","imageId":625170,"seoHeadline":"Spin quartet keep New Zealand to 251 in Champions Trophy final","context":"2025 Champions Trophy","coverImage":{"id":"625170","caption":"Kuldeep finished with figures of 2/40.","source":"Getty"},"entitlements":{},"adsType":{}}},{"story":{"id":133704,"hline":"Gill dismisses speculation surrounding Rohit's retirement","intro":"There has been intense speculation about Rohit's future, with a possible announcement linked to his decision to retire from the Twenty20 format after winning the World Cup last year","pubTime":"1741446504694","source":"Cricbuzz","storyType":"News","imageId":624864,"seoHeadline":"Shubman Gill dismisses speculation surrounding Rohit Sharma retirement","context":"Champions Trophy final, 2025","coverImage":{"id":"624864","caption":"Gill believes Rohit isn't thinking about retiring after the CT final.","source":"Getty"},"entitlements":{},"adsType":{}}}],"lastUpdatedTime":"1742622258809","appIndex":{"seoTitle":"India latest and breaking cricket news - Cricbuzz | Cricbuzz.com","webURL":"http://www.cricbuzz.com/cricket-team/india/2/news"}
+            },
+            "player":{
+                "player":[{"name":"BATSMEN","imageId":174146},{"id":"1413","name":"Virat Kohli","imageId":616517,"battingStyle":"Right-hand bat","bowlingStyle":"Right-arm medium"},{"id":"576","name":"Rohit Sharma","imageId":616514,"battingStyle":"Right-hand bat","bowlingStyle":"Right-arm offbreak"},{"id":"1446","name":"Shikhar Dhawan","imageId":170660,"battingStyle":"Left-hand bat","bowlingStyle":"Right-arm offbreak"},{"id":"11808","name":"Shubman Gill","imageId":616515,"battingStyle":"Right-hand bat","bowlingStyle":"Right-arm offbreak"},{"id":"9428","name":"Shreyas Iyer","imageId":616518,"battingStyle":"Right-hand bat","bowlingStyle":"Right-arm legbreak"},{"id":"1836","name":"Manish Pandey","imageId":171022,"battingStyle":"Right-hand bat","bowlingStyle":"Right-arm medium"},{"id":"2195","name":"Mayank Agarawal","imageId":591981,"battingStyle":"Right-hand bat","bowlingStyle":"Right-arm offbreak"},{"id":"12094","name":"Prithvi Shaw","imageId":593782,"battingStyle":"Right-hand bat","bowlingStyle":"Right-arm offbreak"},{"id":"1448","name":"Cheteshwar Pujara","imageId":332890,"battingStyle":"Right-hand bat","bowlingStyle":"Right-arm legbreak"},{"id":"1447","name":"Ajinkya Rahane","imageId":332892,"battingStyle":"Right-hand bat","bowlingStyle":"Right-arm medium"},{"id":"11813","name":"Ruturaj Gaikwad","imageId":333874,"battingStyle":"Right-hand bat","bowlingStyle":"Right-arm offbreak"},{"name":"ALL ROUNDER","imageId":174146},{"id":"9647","name":"Hardik Pandya","imageId":616519,"battingStyle":"Right-hand bat","bowlingStyle":"Right-arm fast-medium"},{"id":"8424","name":"Hanuma Vihari","imageId":171080,"battingStyle":"Right-hand bat","bowlingStyle":"Right-arm offbreak"},{"id":"587","name":"Ravindra Jadeja","imageId":616520,"battingStyle":"Left-hand bat","bowlingStyle":"Left-arm orthodox"},{"id":"8683","name":"Shardul Thakur","imageId":352487,"battingStyle":"Right-hand bat","bowlingStyle":"Right-arm fast-medium"},{"id":"1593","name":"Ravichandran Ashwin","imageId":591961,"battingStyle":"Right-hand bat","bowlingStyle":"Right-arm offbreak"},{"name":"WICKET KEEPER","imageId":174146},{"id":"8733","name":"KL Rahul","imageId":616523,"battingStyle":"Right-hand bat"},{"id":"8271","name":"Sanju Samson","imageId":226289,"battingStyle":"Right-hand bat"},{"id":"1465","name":"Wriddhiman Saha","imageId":171058,"battingStyle":"Right-hand bat"},{"id":"10744","name":"Rishabh Pant","imageId":616524,"battingStyle":"Left-hand bat"},{"name":"BOWLER","imageId":174146},{"id":"7909","name":"Mohammed Shami","imageId":616526,"battingStyle":"Right-hand bat","bowlingStyle":"Right-arm fast"},{"id":"9311","name":"Jasprit Bumrah","imageId":591949,"battingStyle":"Right-hand bat","bowlingStyle":"Right-arm fast"},{"id":"8292","name":"Kuldeep Yadav","imageId":616525,"battingStyle":"Left-hand bat","bowlingStyle":"Left-arm wrist-spin"},{"id":"7910","name":"Yuzvendra Chahal","imageId":244981,"battingStyle":"Right-hand bat","bowlingStyle":"Right-arm legbreak"},{"id":"9715","name":"Navdeep Saini","imageId":226400,"battingStyle":"Right-hand bat","bowlingStyle":"Right-arm fast"},{"id":"1858","name":"Umesh Yadav","imageId":332901,"battingStyle":"Right-hand bat","bowlingStyle":"Right-arm fast"},{"id":"10808","name":"Mohammed Siraj","imageId":591952,"battingStyle":"Right-hand bat","bowlingStyle":"Right-arm fast"}]
+            },
+            "statsfilter":{
+                "types":[{"header":"Batting"},{"value":"mostRuns","header":"Most Runs","category":"Batting"},{"value":"highestScore","header":"Highest Scores","category":"Batting"},{"value":"highestAvg","header":"Best Batting Average","category":"Batting"},{"value":"highestSr","header":"Best Batting Strike Rate","category":"Batting"},{"value":"mostHundreds","header":"Most Hundreds","category":"Batting"},{"value":"mostFifties","header":"Most Fifties","category":"Batting"},{"value":"mostFours","header":"Most Fours","category":"Batting"},{"value":"mostSixes","header":"Most Sixes","category":"Batting"},{"value":"mostNineties","header":"Most Nineties","category":"Batting"},{"header":"Bowling"},{"value":"mostWickets","header":"Most Wickets","category":"Bowling"},{"value":"lowestAvg","header":"Best Bowling Average","category":"Bowling"},{"value":"bestBowlingInnings","header":"Best Bowling ","category":"Bowling"},{"value":"mostFiveWickets","header":"Most 5 Wickets Haul","category":"Bowling"},{"value":"lowestEcon","header":"Best Economy","category":"Bowling"},{"value":"lowestSr","header":"Best Bowling Strike Rate","category":"Bowling"}],"appIndex":{"seoTitle":"Live cricket scores, schedule, news, archive, series | Cricbuzz.com","webURL":"www.cricbuzz.com"}
+            },
+            "stats":{
+                "filter":{"matchtype":[{"matchTypeId":"1","matchTypeDesc":"test"},{"matchTypeId":"2","matchTypeDesc":"odi"},{"matchTypeId":"3","matchTypeDesc":"t20"}],"team":[{"id":"61","teamShortName":"DC"},{"id":"58","teamShortName":"CSK"},{"id":"65","teamShortName":"PBKS"},{"id":"63","teamShortName":"KKR"},{"id":"62","teamShortName":"MI"},{"id":"59","teamShortName":"RCB"},{"id":"64","teamShortName":"RR"},{"id":"255","teamShortName":"SRH"},{"id":"720","teamShortName":"RWAW"},{"id":"729","teamShortName":"SLCXI"},{"id":"794","teamShortName":"DVK"},{"id":"633","teamShortName":"SGP"},{"id":"718","teamShortName":"RSAL"},{"id":"709","teamShortName":"SLL"},{"id":"733","teamShortName":"WIHOXI"},{"id":"738","teamShortName":"WIBRXI"},{"id":"743","teamShortName":"TS"},{"id":"789","teamShortName":"CLK"},{"id":"784","teamShortName":"CUMXI"},{"id":"779","teamShortName":"FINXI"},{"id":"775","teamShortName":"AUTW"},{"id":"770","teamShortName":"TV"},{"id":"768","teamShortName":"TC"},{"id":"763","teamShortName":"TR"},{"id":"759","teamShortName":"TMO"},{"id":"758","teamShortName":"TMG"},{"id":"754","teamShortName":"PAKGR"},{"id":"749","teamShortName":"PAKWT"},{"id":"748","teamShortName":"TBR"},{"id":"700","teamShortName":"AUSL"},{"id":"691","teamShortName":"WIL"},{"id":"623","teamShortName":"CW"},{"id":"622","teamShortName":"CGC"},{"id":"621","teamShortName":"SLT"},{"id":"620","teamShortName":"SOUW"},{"id":"619","teamShortName":"NORW"},{"id":"618","teamShortName":"TREW"},{"id":"617","teamShortName":"MCRW"},{"id":"616","teamShortName":"LDNW"},{"id":"615","teamShortName":"BRMW"},{"id":"614","teamShortName":"WELW"},{"id":"613","teamShortName":"OVLW"},{"id":"612","teamShortName":"TRE"},{"id":"624","teamShortName":"RPR"},{"id":"625","teamShortName":"DP"},{"id":"626","teamShortName":"RSR"},{"id":"682","teamShortName":"INDL"},{"id":"675","teamShortName":"IRN"},{"id":"666","teamShortName":"GCXI"},{"id":"657","teamShortName":"PTXI"},{"id":"648","teamShortName":"INDIAWB"},{"id":"639","teamShortName":"INDWC"},{"id":"632","teamShortName":"HSR"},{"id":"631","teamShortName":"PGR"},{"id":"630","teamShortName":"DSR"},{"id":"629","teamShortName":"FYO"},{"id":"628","teamShortName":"FLH"},{"id":"627","teamShortName":"KLT"},{"id":"611","teamShortName":"SOU"},{"id":"1020","teamShortName":"CAYM"},{"id":"946","teamShortName":"DAS"},{"id":"943","teamShortName":"CLS"},{"id":"941","teamShortName":"CBJ"},{"id":"933","teamShortName":"ESTORM"},{"id":"928","teamShortName":"ROCKS"},{"id":"927","teamShortName":"ECAPE"},{"id":"923","teamShortName":"NCAPE"},{"id":"922","teamShortName":"NWEST"},{"id":"918","teamShortName":"GRB"},{"id":"917","teamShortName":"WPR"},{"id":"948","teamShortName":"JKS"},{"id":"953","teamShortName":"KDW"},{"id":"956","teamShortName":"UGAU19"},{"id":"1018","teamShortName":"BHM"},{"id":"1011","teamShortName":"BAW"},{"id":"996","teamShortName":"WGS"},{"id":"991","teamShortName":"ALN"},{"id":"986","teamShortName":"IMR"},{"id":"981","teamShortName":"SYSR"},{"id":"976","teamShortName":"MGD"},{"id":"971","teamShortName":"GT"},{"id":"966","teamShortName":"LSG"},{"id":"961","teamShortName":"INDWD"},{"id":"912","teamShortName":"LIMPO"},{"id":"908","teamShortName":"TUSKS"},{"id":"903","teamShortName":"MPR"},{"id":"843","teamShortName":"BANE"},{"id":"838","teamShortName":"NZWXI"},{"id":"832","teamShortName":"Root"},{"id":"827","teamShortName":"DHAKA"},{"id":"822","teamShortName":"CTGRM"},{"id":"817","teamShortName":"RJSHI"},{"id":"812","teamShortName":"KHULN"},{"id":"807","teamShortName":"BRSAL"},{"id":"805","teamShortName":"KDT"},{"id":"800","teamShortName":"JST"},{"id":"848","teamShortName":"BANL"},{"id":"853","teamShortName":"ENGL"},{"id":"861","teamShortName":"ITT"},{"id":"902","teamShortName":"TRKW"},{"id":"897","teamShortName":"TKY"},{"id":"892","teamShortName":"A2"},{"id":"887","teamShortName":"A1"},{"id":"886","teamShortName":"CSXI"},{"id":"881","teamShortName":"ZIMSXI"},{"id":"876","teamShortName":"TWS"},{"id":"872","teamShortName":"TLAT"},{"id":"867","teamShortName":"SLST"},{"id":"866","teamShortName":"NRK"},{"id":"799","teamShortName":"GGD"},{"id":"610","teamShortName":"NORS"},{"id":"557","teamShortName":"IOM"},{"id":"543","teamShortName":"BHR"},{"id":"542","teamShortName":"PER"},{"id":"541","teamShortName":"BEL"},{"id":"540","teamShortName":"BLZ"},{"id":"539","teamShortName":"FRA"},{"id":"538","teamShortName":"PHI"},{"id":"537","teamShortName":"LUX"},{"id":"536","teamShortName":"NGA"},{"id":"535","teamShortName":"TAN"},{"id":"534","teamShortName":"SWE"},{"id":"544","teamShortName":"MEX"},{"id":"545","teamShortName":"WSM"},{"id":"546","teamShortName":"PAN"},{"id":"556","teamShortName":"FIN"},{"id":"555","teamShortName":"BTN"},{"id":"554","teamShortName":"ISR"},{"id":"553","teamShortName":"MWI"},{"id":"552","teamShortName":"CHL"},{"id":"551","teamShortName":"MOZ"},{"id":"550","teamShortName":"HUN"},{"id":"549","teamShortName":"ARG"},{"id":"548","teamShortName":"CRI"},{"id":"547","teamShortName":"JPN"},{"id":"533","teamShortName":"GGY"},{"id":"532","teamShortName":"AUT"},{"id":"531","teamShortName":"GH"},{"id":"517","teamShortName":"SIND"},{"id":"516","teamShortName":"RJP"},{"id":"515","teamShortName":"PL"},{"id":"514","teamShortName":"PAKHT"},{"id":"513","teamShortName":"NW"},{"id":"512","teamShortName":"MA"},{"id":"511","teamShortName":"KKS"},{"id":"510","teamShortName":"BTS"},{"id":"509","teamShortName":"SINW"},{"id":"508","teamShortName":"DENW"},{"id":"518","teamShortName":"AFGU23"},{"id":"519","teamShortName":"INDU19A"},{"id":"520","teamShortName":"INDU19B"},{"id":"530","teamShortName":"VEL"},{"id":"529","teamShortName":"BW"},{"id":"528","teamShortName":"ZIMCXI"},{"id":"527","teamShortName":"ITA"},{"id":"526","teamShortName":"EST"},{"id":"525","teamShortName":"QAT"},{"id":"524","teamShortName":"CHN"},{"id":"523","teamShortName":"Spain"},{"id":"522","teamShortName":"Malta"},{"id":"521","teamShortName":"ESTXI"},{"id":"507","teamShortName":"SKRW"},{"id":"558","teamShortName":"BGR"},{"id":"609","teamShortName":"MCR"},{"id":"595","teamShortName":"CDG"},{"id":"594","teamShortName":"INDWBPXI"},{"id":"593","teamShortName":"KUWU19"},{"id":"592","teamShortName":"USAW"},{"id":"591","teamShortName":"BTW"},{"id":"590","teamShortName":"KUTW"},{"id":"589","teamShortName":"ZR"},{"id":"588","teamShortName":"HHS"},{"id":"587","teamShortName":"GGS"},{"id":"586","teamShortName":"SOL"},{"id":"596","teamShortName":"PORT"},{"id":"597","teamShortName":"DEG"},{"id":"598","teamShortName":"DBL"},{"id":"608","teamShortName":"LDN"},{"id":"607","teamShortName":"BRM"},{"id":"606","teamShortName":"WEF"},{"id":"605","teamShortName":"OVL"},{"id":"604","teamShortName":"NGAU19"},{"id":"603","teamShortName":"JPNU19"},{"id":"602","teamShortName":"PD"},{"id":"601","teamShortName":"AD"},{"id":"600","teamShortName":"BGT"},{"id":"599","teamShortName":"QLD"},{"id":"585","teamShortName":"AA"},{"id":"584","teamShortName":"NBB"},{"id":"583","teamShortName":"SPL"},{"id":"569","teamShortName":"RWA"},{"id":"568","teamShortName":"SWZ"},{"id":"567","teamShortName":"GM"},{"id":"566","teamShortName":"IDN"},{"id":"565","teamShortName":"MMR"},{"id":"564","teamShortName":"GIB"},{"id":"563","teamShortName":"MDV"},{"id":"562","teamShortName":"SHN"},{"id":"561","teamShortName":"CZE"},{"id":"560","teamShortName":"BRAZIL"},{"id":"570","teamShortName":"LSO"},{"id":"571","teamShortName":"SAU"},{"id":"572","teamShortName":"ADK"},{"id":"582","teamShortName":"SBS"},{"id":"581","teamShortName":"NMP"},{"id":"580","teamShortName":"ETS"},{"id":"579","teamShortName":"TKMNE"},{"id":"578","teamShortName":"ATMWS"},{"id":"577","teamShortName":"BFT"},{"id":"576","teamShortName":"DBC"},{"id":"575","teamShortName":"GGG"},{"id":"574","teamShortName":"EBR"},{"id":"573","teamShortName":"RDR"},{"id":"559","teamShortName":"SLE"},{"id":"1027","teamShortName":"NOR"},{"id":"1941","teamShortName":"AFGP"},{"id":"1796","teamShortName":"MGLW"},{"id":"1794","teamShortName":"LUXW"},{"id":"1789","teamShortName":"SRBW"},{"id":"1782","teamShortName":"SAEP"},{"id":"1775","teamShortName":"BOR"},{"id":"1768","teamShortName":"SWD"},{"id":"1766","teamShortName":"KZNIN"},{"id":"1759","teamShortName":"BOL"},{"id":"1754","teamShortName":"CISW"},{"id":"1752","teamShortName":"JSR"},{"id":"1804","teamShortName":"MGL"},{"id":"1811","teamShortName":"PAKL"},{"id":"1815","teamShortName":"USAU19"},{"id":"1934","teamShortName":"NYSS"},{"id":"1927","teamShortName":"KSA"},{"id":"1920","teamShortName":"DDS"},{"id":"1916","teamShortName":"CLions"},{"id":"1911","teamShortName":"PUNRS"},{"id":"1904","teamShortName":"RAJK"},{"id":"1902","teamShortName":"DGS"},{"id":"1895","teamShortName":"DRD"},{"id":"1846","teamShortName":"SNSS"},{"id":"1843","teamShortName":"URH"},{"id":"1747","teamShortName":"SWS"},{"id":"1740","teamShortName":"ULW"},{"id":"1733","teamShortName":"JKC"},{"id":"1647","teamShortName":"CTSA"},{"id":"1640","teamShortName":"JBT"},{"id":"1636","teamShortName":"BLBJ"},{"id":"1633","teamShortName":"SJG"},{"id":"1629","teamShortName":"BTM"},{"id":"1622","teamShortName":"Q2"},{"id":"1615","teamShortName":"Q1"},{"id":"1608","teamShortName":"KFS"},{"id":"1601","teamShortName":"GAM"},{"id":"1594","teamShortName":"SOR"},{"id":"1650","teamShortName":"HB"},{"id":"1657","teamShortName":"UAEA"},{"id":"1664","teamShortName":"OMANA"},{"id":"1731","teamShortName":"BWB"},{"id":"1724","teamShortName":"JI"},{"id":"1713","teamShortName":"MU"},{"id":"1706","teamShortName":"NJL"},{"id":"1699","teamShortName":"TEC"},{"id":"1692","teamShortName":"NYW"},{"id":"1685","teamShortName":"CAK"},{"id":"1682","teamShortName":"AR"},{"id":"1675","teamShortName":"ROMW"},{"id":"1668","teamShortName":"GRCW"},{"id":"1591","teamShortName":"WAF"},{"id":"1948","teamShortName":"BT"},{"id":"2380","teamShortName":"PORTW"},{"id":"2253","teamShortName":"NEK"},{"id":"2249","teamShortName":"KDB"},{"id":"2241","teamShortName":"JFT"},{"id":"2237","teamShortName":"DHCP"},{"id":"2233","teamShortName":"DBR"},{"id":"2223","teamShortName":"UPN"},{"id":"2216","teamShortName":"AJMB"},{"id":"2201","teamShortName":"BGRW"},{"id":"2193","teamShortName":"URG"},{"id":"2187","teamShortName":"CLM"},{"id":"2261","teamShortName":"HBT"},{"id":"2269","teamShortName":"CLJR"},{"id":"2277","teamShortName":"WISXI"},{"id":"2377","teamShortName":"FALK"},{"id":"2368","teamShortName":"ANS"},{"id":"2362","teamShortName":"SAM"},{"id":"2359","teamShortName":"ENGM"},{"id":"2353","teamShortName":"WIM"},{"id":"2344","teamShortName":"AUSM"},{"id":"2335","teamShortName":"SLM"},{"id":"2326","teamShortName":"INDM"},{"id":"2286","teamShortName":"NGAWU19"},{"id":"2285","teamShortName":"SN"},{"id":"2179","teamShortName":"CAYMW"},{"id":"2169","teamShortName":"GUGS"},{"id":"2161","teamShortName":"TYH"},{"id":"2001","teamShortName":"ZMB"},{"id":"1994","teamShortName":"CRTW"},{"id":"1992","teamShortName":"CYPW"},{"id":"1987","teamShortName":"CZEW"},{"id":"1985","teamShortName":"ZIMAW"},{"id":"1978","teamShortName":"ABF"},{"id":"1974","teamShortName":"UNISportSA"},{"id":"1965","teamShortName":"HKA"},{"id":"1962","teamShortName":"PS"},{"id":"1955","teamShortName":"SLLS"},{"id":"2005","teamShortName":"INDCH"},{"id":"2014","teamShortName":"SACH"},{"id":"2021","teamShortName":"WICH"},{"id":"2156","teamShortName":"KNSO"},{"id":"2148","teamShortName":"NYSL"},{"id":"2146","teamShortName":"WSMWU19"},{"id":"2138","teamShortName":"MLYWU19"},{"id":"2071","teamShortName":"ACT Meteors"},{"id":"2062","teamShortName":"FINW"},{"id":"2050","teamShortName":"FCCXI"},{"id":"2046","teamShortName":"PAKCH"},{"id":"2039","teamShortName":"AUSCH"},{"id":"2030","teamShortName":"ENGCH"},{"id":"1953","teamShortName":"IR"},{"id":"1307","teamShortName":"MIE"},{"id":"1223","teamShortName":"NYS"},{"id":"1216","teamShortName":"MSA"},{"id":"1209","teamShortName":"IOMW"},{"id":"1207","teamShortName":"YEW"},{"id":"1200","teamShortName":"JW"},{"id":"1195","teamShortName":"TTW"},{"id":"1188","teamShortName":"INTXIW"},{"id":"1181","teamShortName":"FIJIW"},{"id":"1179","teamShortName":"CAM"},{"id":"1172","teamShortName":"NZL"},{"id":"1228","teamShortName":"MICT"},{"id":"1235","teamShortName":"PR"},{"id":"1242","teamShortName":"DSG"},{"id":"1300","teamShortName":"ADKR"},{"id":"1298","teamShortName":"DCP"},{"id":"1291","teamShortName":"NSW/ACT"},{"id":"1284","teamShortName":"SWT"},{"id":"1277","teamShortName":"SEY"},{"id":"1272","teamShortName":"STH"},{"id":"1265","teamShortName":"MALI"},{"id":"1263","teamShortName":"PC"},{"id":"1256","teamShortName":"SEC"},{"id":"1249","teamShortName":"JSK"},{"id":"1165","teamShortName":"GUJG"},{"id":"1158","teamShortName":"INDCAP"},{"id":"1153","teamShortName":"MT"},{"id":"1083","teamShortName":"BHRW"},{"id":"1081","teamShortName":"GRC"},{"id":"1076","teamShortName":"CRT"},{"id":"1069","teamShortName":"SLV"},{"id":"1067","teamShortName":"SRB"},{"id":"1062","teamShortName":"SUI"},{"id":"1055","teamShortName":"NOYW"},{"id":"1048","teamShortName":"SWEW"},{"id":"1041","teamShortName":"ROM"},{"id":"1034","teamShortName":"SPW"},{"id":"1090","teamShortName":"BTNW"},{"id":"1097","teamShortName":"KUWW"},{"id":"1104","teamShortName":"GGYW"},{"id":"1151","teamShortName":"BK"},{"id":"1146","teamShortName":"NEZONE"},{"id":"1144","teamShortName":"GAWW"},{"id":"1139","teamShortName":"TKRW"},{"id":"1137","teamShortName":"BRW"},{"id":"1132","teamShortName":"CIS"},{"id":"1125","teamShortName":"ITAW"},{"id":"1123","teamShortName":"GBM"},{"id":"1116","teamShortName":"KDF"},{"id":"1111","teamShortName":"CYP"},{"id":"1032","teamShortName":"JERW"},{"id":"1312","teamShortName":"SW"},{"id":"1584","teamShortName":"SFU"},{"id":"1517","teamShortName":"MMRW"},{"id":"1514","teamShortName":"PHIW"},{"id":"1507","teamShortName":"GIBW"},{"id":"1500","teamShortName":"MALW"},{"id":"1493","teamShortName":"CAMW"},{"id":"1489","teamShortName":"GHW"},{"id":"1482","teamShortName":"NGAW"},{"id":"1479","teamShortName":"GGTW"},{"id":"1472","teamShortName":"UPW"},{"id":"1468","teamShortName":"MIW"},{"id":"1521","teamShortName":"ESTW"},{"id":"1528","teamShortName":"BEZW"},{"id":"1531","teamShortName":"CRW"},{"id":"1577","teamShortName":"TSK"},{"id":"1573","teamShortName":"MINY"},{"id":"1570","teamShortName":"LAKR"},{"id":"1563","teamShortName":"MALIW"},{"id":"1556","teamShortName":"SLWA"},{"id":"1552","teamShortName":"PAKWA"},{"id":"1549","teamShortName":"BANWA"},{"id":"1545","teamShortName":"MAU"},{"id":"1542","teamShortName":"THAIAW"},{"id":"1535","teamShortName":"SWTW"},{"id":"1465","teamShortName":"RCBW"},{"id":"1461","teamShortName":"DCW"},{"id":"1454","teamShortName":"CBDW"},{"id":"1368","teamShortName":"RWAWU19"},{"id":"1363","teamShortName":"PAKWU19"},{"id":"1361","teamShortName":"SLWU19"},{"id":"1356","teamShortName":"INDWU19"},{"id":"1354","teamShortName":"RSAWU19"},{"id":"1347","teamShortName":"UAEWU19"},{"id":"1342","teamShortName":"SCOWU19"},{"id":"1335","teamShortName":"BANWU19"},{"id":"1328","teamShortName":"AUSWU19"},{"id":"1326","teamShortName":"DV"},{"id":"1375","teamShortName":"IREWU19"},{"id":"1382","teamShortName":"WIWU19"},{"id":"1384","teamShortName":"IDNWU19"},{"id":"1447","teamShortName":"CBD"},{"id":"1444","teamShortName":"MDVW"},{"id":"1431","teamShortName":"MEXW"},{"id":"1426","teamShortName":"CANW"},{"id":"1419","teamShortName":"DHDM"},{"id":"1412","teamShortName":"SYST"},{"id":"1405","teamShortName":"USAWU19"},{"id":"1403","teamShortName":"ZIMWU19"},{"id":"1398","teamShortName":"ENGWU19"},{"id":"1391","teamShortName":"NZWU19"},{"id":"1319","teamShortName":"GG"},{"id":"241","teamShortName":"AP"},{"id":"226","teamShortName":"IREU19"},{"id":"224","teamShortName":"BANU19"},{"id":"223","teamShortName":"AFGU19"},{"id":"222","teamShortName":"PNGU19"},{"id":"221","teamShortName":"ZIMU19"},{"id":"220","teamShortName":"WIU19"},{"id":"214","teamShortName":"UN"},{"id":"213","teamShortName":"WU"},{"id":"212","teamShortName":"UR"},{"id":"211","teamShortName":"RUR"},{"id":"228","teamShortName":"SCOU19"},{"id":"229","teamShortName":"NPLU19"},{"id":"230","teamShortName":"NAMU19"},{"id":"240","teamShortName":"MUMA"},{"id":"239","teamShortName":"IWXI"},{"id":"238","teamShortName":"PASXI"},{"id":"237","teamShortName":"CZONE"},{"id":"236","teamShortName":"SZONE"},{"id":"235","teamShortName":"EZONE"},{"id":"234","teamShortName":"WZONE"},{"id":"233","teamShortName":"NZONE"},{"id":"232","teamShortName":"BEN"},{"id":"231","teamShortName":"INDB"},{"id":"210","teamShortName":"NN"},{"id":"209","teamShortName":"KW"},{"id":"208","teamShortName":"BCD"},{"id":"194","teamShortName":"HBH"},{"id":"193","teamShortName":"BRH"},{"id":"192","teamShortName":"SYT"},{"id":"191","teamShortName":"CACXI"},{"id":"190","teamShortName":"SIN"},{"id":"189","teamShortName":"IREW"},{"id":"188","teamShortName":"NEDW"},{"id":"187","teamShortName":"RUH"},{"id":"186","teamShortName":"AKL"},{"id":"185","teamShortName":"DEN"},{"id":"195","teamShortName":"MLR"},{"id":"196","teamShortName":"MLS"},{"id":"197","teamShortName":"PRS"},{"id":"207","teamShortName":"WIA"},{"id":"206","teamShortName":"SR"},{"id":"205","teamShortName":"KRB"},{"id":"204","teamShortName":"DR"},{"id":"203","teamShortName":"DG"},{"id":"202","teamShortName":"CK"},{"id":"201","teamShortName":"BB"},{"id":"200","teamShortName":"HAR"},{"id":"199","teamShortName":"ADS"},{"id":"198","teamShortName":"SYS"},{"id":"184","teamShortName":"KTK"},{"id":"242","teamShortName":"HYD"},{"id":"296","teamShortName":"MBPXI"},{"id":"281","teamShortName":"KNG"},{"id":"279","teamShortName":"PMXI"},{"id":"278","teamShortName":"AUIXI"},{"id":"277","teamShortName":"WACXI"},{"id":"276","teamShortName":"INDS"},{"id":"275","teamShortName":"RHR"},{"id":"274","teamShortName":"KM"},{"id":"273","teamShortName":"UY"},{"id":"272","teamShortName":"BG"},{"id":"271","teamShortName":"TKR"},{"id":"282","teamShortName":"CANU19"},{"id":"283","teamShortName":"UAEU19"},{"id":"285","teamShortName":"MOR"},{"id":"295","teamShortName":"WICB"},{"id":"294","teamShortName":"NK"},{"id":"293","teamShortName":"LHL"},{"id":"292","teamShortName":"SE"},{"id":"291","teamShortName":"NPS"},{"id":"290","teamShortName":"MCC"},{"id":"289","teamShortName":"ROWXI"},{"id":"288","teamShortName":"BANA"},{"id":"287","teamShortName":"PNG"},{"id":"286","teamShortName":"NZXI"},{"id":"270","teamShortName":"FW"},{"id":"269","teamShortName":"ZIMXI"},{"id":"268","teamShortName":"RSAA"},{"id":"253","teamShortName":"GOA"},{"id":"252","teamShortName":"JK"},{"id":"251","teamShortName":"HP"},{"id":"250","teamShortName":"SER"},{"id":"249","teamShortName":"ODSA"},{"id":"248","teamShortName":"VID"},{"id":"247","teamShortName":"TRI"},{"id":"246","teamShortName":"RLYS"},{"id":"245","teamShortName":"PUN"},{"id":"244","teamShortName":"KER"},{"id":"254","teamShortName":"MAH"},{"id":"256","teamShortName":"RGR"},{"id":"257","teamShortName":"WIW"},{"id":"267","teamShortName":"RSAIXI"},{"id":"266","teamShortName":"AUSN"},{"id":"265","teamShortName":"AH"},{"id":"264","teamShortName":"JT"},{"id":"263","teamShortName":"SLK"},{"id":"262","teamShortName":"BR"},{"id":"261","teamShortName":"UNI"},{"id":"260","teamShortName":"RSAW"},{"id":"259","teamShortName":"PAKW"},{"id":"258","teamShortName":"SLW"},{"id":"243","teamShortName":"JHKD"},{"id":"94","teamShortName":"SAUR"},{"id":"77","teamShortName":"GER"},{"id":"74","teamShortName":"MDX"},{"id":"72","teamShortName":"NEP"},{"id":"71","teamShortName":"MLY"},{"id":"57","teamShortName":"RSAU19"},{"id":"56","teamShortName":"PAKU19"},{"id":"55","teamShortName":"NZU19"},{"id":"54","teamShortName":"INDU19"},{"id":"53","teamShortName":"ACTXI"},{"id":"52","teamShortName":"VIC"},{"id":"78","teamShortName":"INDA"},{"id":"79","teamShortName":"AUSA"},{"id":"80","teamShortName":"NZA"},{"id":"93","teamShortName":"UP"},{"id":"92","teamShortName":"TN"},{"id":"90","teamShortName":"DOL"},{"id":"89","teamShortName":"TIT"},{"id":"88","teamShortName":"SKST"},{"id":"87","teamShortName":"WA"},{"id":"86","teamShortName":"BPXI"},{"id":"84","teamShortName":"TT"},{"id":"82","teamShortName":"ROI"},{"id":"81","teamShortName":"DEL"},{"id":"44","teamShortName":"UGA"},{"id":"43","teamShortName":"SLA"},{"id":"42","teamShortName":"ENGA"},{"id":"12","teamShortName":"ZIM"},{"id":"11","teamShortName":"RSA"},{"id":"10","teamShortName":"WI"},{"id":"9","teamShortName":"ENG"},{"id":"8","teamShortName":"HK"},{"id":"7","teamShortName":"UAE"},{"id":"6","teamShortName":"BAN"},{"id":"5","teamShortName":"SL"},{"id":"4","teamShortName":"AUS"},{"id":"3","teamShortName":"PAK"},{"id":"13","teamShortName":"NZ"},{"id":"14","teamShortName":"KEN"},{"id":"15","teamShortName":"USA"},{"id":"41","teamShortName":"SUS"},{"id":"36","teamShortName":"INDBLUE"},{"id":"27","teamShortName":"IRE"},{"id":"26","teamShortName":"CAN"},{"id":"25","teamShortName":"BER"},{"id":"24","teamShortName":"NED"},{"id":"23","teamShortName":"SCO"},{"id":"21","teamShortName":"INDRED"},{"id":"20","teamShortName":"INDGREEN"},{"id":"18","teamShortName":"INDSR"},{"id":"2","teamShortName":"IND"},{"id":"95","teamShortName":"MUM"},{"id":"183","teamShortName":"PWI"},{"id":"159","teamShortName":"GAW"},{"id":"158","teamShortName":"SAUS"},{"id":"157","teamShortName":"LIONS"},{"id":"156","teamShortName":"CEN"},{"id":"155","teamShortName":"WAR"},{"id":"154","teamShortName":"SLCPXI"},{"id":"153","teamShortName":"HAM"},{"id":"152","teamShortName":"ESS"},{"id":"151","teamShortName":"GLOUCS"},{"id":"150","teamShortName":"KENT"},{"id":"160","teamShortName":"EA"},{"id":"161","teamShortName":"NAM"},{"id":"162","teamShortName":"ASM"},{"id":"173","teamShortName":"ENGU19"},{"id":"172","teamShortName":"SLU19"},{"id":"171","teamShortName":"RAJ"},{"id":"170","teamShortName":"BRD"},{"id":"168","teamShortName":"NCC"},{"id":"167","teamShortName":"MP"},{"id":"166","teamShortName":"TAS"},{"id":"165","teamShortName":"ECBXI"},{"id":"164","teamShortName":"QL"},{"id":"163","teamShortName":"GUJ"},{"id":"149","teamShortName":"GLAM"},{"id":"148","teamShortName":"SUR"},{"id":"147","teamShortName":"WORCS"},{"id":"122","teamShortName":"MD"},{"id":"119","teamShortName":"SOM"},{"id":"105","teamShortName":"OTG"},{"id":"104","teamShortName":"NSW"},{"id":"103","teamShortName":"WAY"},{"id":"101","teamShortName":"COB"},{"id":"100","teamShortName":"AUSW"},{"id":"99","teamShortName":"ENGW"},{"id":"98","teamShortName":"NZW"},{"id":"97","teamShortName":"INDW"},{"id":"123","teamShortName":"BP"},{"id":"125","teamShortName":"BIJ"},{"id":"128","teamShortName":"KAR"},{"id":"146","teamShortName":"YORKS"},{"id":"145","teamShortName":"LEIC"},{"id":"144","teamShortName":"DERBY"},{"id":"143","teamShortName":"LANCS"},{"id":"142","teamShortName":"NHNTS"},{"id":"141","teamShortName":"DUR"},{"id":"140","teamShortName":"WARKS"},{"id":"139","teamShortName":"NOTTS"},{"id":"130","teamShortName":"WIS"},{"id":"129","teamShortName":"AUSU19"},{"id":"96","teamShortName":"AFG"},{"id":"297","teamShortName":"WINDS"},{"id":"454","teamShortName":"WPH"},{"id":"440","teamShortName":"INDWA"},{"id":"439","teamShortName":"SAEW"},{"id":"438","teamShortName":"HKIU"},{"id":"437","teamShortName":"MS"},{"id":"436","teamShortName":"WAXI"},{"id":"435","teamShortName":"IREA"},{"id":"434","teamShortName":"SYL"},{"id":"433","teamShortName":"SK"},{"id":"432","teamShortName":"PM"},{"id":"431","teamShortName":"NMBS"},{"id":"441","teamShortName":"COL"},{"id":"442","teamShortName":"KAN"},{"id":"443","teamShortName":"GAL"},{"id":"453","teamShortName":"VCK"},{"id":"452","teamShortName":"EDR"},{"id":"451","teamShortName":"MNT"},{"id":"450","teamShortName":"TTN"},{"id":"449","teamShortName":"UAEW"},{"id":"448","teamShortName":"UGAW"},{"id":"447","teamShortName":"SPN"},{"id":"446","teamShortName":"TRL"},{"id":"445","teamShortName":"MLYW"},{"id":"444","teamShortName":"DAM"},{"id":"430","teamShortName":"JG"},{"id":"429","teamShortName":"DW"},{"id":"428","teamShortName":"CTKR"},{"id":"414","teamShortName":"JL"},{"id":"413","teamShortName":"JAIPUR"},{"id":"412","teamShortName":"UDE"},{"id":"411","teamShortName":"SIKAR"},{"id":"410","teamShortName":"Trichy"},{"id":"408","teamShortName":"BANU23"},{"id":"407","teamShortName":"SLU23"},{"id":"406","teamShortName":"PAKU23"},{"id":"405","teamShortName":"INDU23"},{"id":"404","teamShortName":"MCCWXI"},{"id":"415","teamShortName":"BWS"},{"id":"416","teamShortName":"APS"},{"id":"417","teamShortName":"SV"},{"id":"427","teamShortName":"BLCB"},{"id":"426","teamShortName":"BZ"},{"id":"425","teamShortName":"WXI"},{"id":"424","teamShortName":"KENU19"},{"id":"423","teamShortName":"BLB"},{"id":"422","teamShortName":"SST"},{"id":"421","teamShortName":"LBL"},{"id":"420","teamShortName":"LT"},{"id":"419","teamShortName":"YD"},{"id":"418","teamShortName":"WS"},{"id":"403","teamShortName":"SOUTH"},{"id":"455","teamShortName":"VKV"},{"id":"506","teamShortName":"VANW"},{"id":"492","teamShortName":"FRAW"},{"id":"491","teamShortName":"BRAW"},{"id":"490","teamShortName":"SLEW"},{"id":"489","teamShortName":"ARGW"},{"id":"488","teamShortName":"BWAW"},{"id":"487","teamShortName":"JPNW"},{"id":"486","teamShortName":"CHNW"},{"id":"485","teamShortName":"QATW"},{"id":"484","teamShortName":"IDNW"},{"id":"483","teamShortName":"TANW"},{"id":"493","teamShortName":"MOZW"},{"id":"494","teamShortName":"ZMBW"},{"id":"495","teamShortName":"MWIW"},{"id":"505","teamShortName":"OMANW"},{"id":"504","teamShortName":"GERW"},{"id":"503","teamShortName":"NAMW"},{"id":"502","teamShortName":"HKW"},{"id":"501","teamShortName":"KENW"},{"id":"500","teamShortName":"SWZW"},{"id":"499","teamShortName":"LSOW"},{"id":"498","teamShortName":"PERW"},{"id":"497","teamShortName":"CHLW"},{"id":"496","teamShortName":"BELW"},{"id":"482","teamShortName":"WSMW"},{"id":"481","teamShortName":"INDC"},{"id":"480","teamShortName":"TSP"},{"id":"466","teamShortName":"SKM"},{"id":"465","teamShortName":"PDC"},{"id":"464","teamShortName":"NGL"},{"id":"463","teamShortName":"MIZ"},{"id":"462","teamShortName":"MGLY"},{"id":"461","teamShortName":"MNP"},{"id":"460","teamShortName":"BIH"},{"id":"459","teamShortName":"INDWG"},{"id":"458","teamShortName":"INDWB"},{"id":"457","teamShortName":"INDWR"},{"id":"467","teamShortName":"UTK"},{"id":"468","teamShortName":"ARNP"},{"id":"469","teamShortName":"HKU19"},{"id":"479","teamShortName":"PLR"},{"id":"478","teamShortName":"NMBG"},{"id":"477","teamShortName":"JS"},{"id":"476","teamShortName":"DH"},{"id":"475","teamShortName":"CTB"},{"id":"474","teamShortName":"BL"},{"id":"473","teamShortName":"NL"},{"id":"472","teamShortName":"KDK"},{"id":"471","teamShortName":"PP"},{"id":"470","teamShortName":"KZ"},{"id":"456","teamShortName":"CWIB"},{"id":"351","teamShortName":"HHJ"},{"id":"335","teamShortName":"LL"},{"id":"334","teamShortName":"PSZ"},{"id":"333","teamShortName":"LHQ"},{"id":"332","teamShortName":"KRK"},{"id":"331","teamShortName":"QTG"},{"id":"330","teamShortName":"ISU"},{"id":"329","teamShortName":"BANW"},{"id":"326","teamShortName":"FijiU19"},{"id":"325","teamShortName":"PAKA"},{"id":"324","teamShortName":"NZBPXI"},{"id":"336","teamShortName":"GA"},{"id":"337","teamShortName":"SAGI"},{"id":"338","teamShortName":"VSK"},{"id":"350","teamShortName":"WICBPXI"},{"id":"349","teamShortName":"MUMCAXI"},{"id":"348","teamShortName":"TNCAU17"},{"id":"347","teamShortName":"HPCAXI"},{"id":"344","teamShortName":"SS"},{"id":"343","teamShortName":"FIJI"},{"id":"342","teamShortName":"ZIMA"},{"id":"341","teamShortName":"AFGA"},{"id":"340","teamShortName":"LEO"},{"id":"339","teamShortName":"CC"},{"id":"323","teamShortName":"BCBXI"},{"id":"322","teamShortName":"BRSL"},{"id":"308","teamShortName":"BLARY"},{"id":"307","teamShortName":"MW"},{"id":"306","teamShortName":"CAXI"},{"id":"305","teamShortName":"IBPXI"},{"id":"304","teamShortName":"OMAN"},{"id":"303","teamShortName":"JER"},{"id":"302","teamShortName":"SNP"},{"id":"301","teamShortName":"ALXI"},{"id":"300","teamShortName":"VAN"},{"id":"299","teamShortName":"SKR"},{"id":"309","teamShortName":"SML"},{"id":"310","teamShortName":"HT"},{"id":"311","teamShortName":"RS"},{"id":"321","teamShortName":"CHTG"},{"id":"320","teamShortName":"SSS"},{"id":"319","teamShortName":"CV"},{"id":"318","teamShortName":"DHD"},{"id":"317","teamShortName":"WW"},{"id":"316","teamShortName":"SB"},{"id":"315","teamShortName":"INDAT20"},{"id":"314","teamShortName":"WEL"},{"id":"313","teamShortName":"CD"},{"id":"312","teamShortName":"CNTBRY"},{"id":"298","teamShortName":"KUW"},{"id":"352","teamShortName":"IW"},{"id":"402","teamShortName":"NORTH"},{"id":"388","teamShortName":"ZIMW"},{"id":"387","teamShortName":"SINU19"},{"id":"386","teamShortName":"MLYU19"},{"id":"385","teamShortName":"BIRM"},{"id":"384","teamShortName":"THAI"},{"id":"383","teamShortName":"NEPW"},{"id":"382","teamShortName":"THAIW"},{"id":"381","teamShortName":"VICXI"},{"id":"380","teamShortName":"SACAXI"},{"id":"379","teamShortName":"RJ"},{"id":"378","teamShortName":"KT"},{"id":"389","teamShortName":"SCOW"},{"id":"390","teamShortName":"PNGW"},{"id":"401","teamShortName":"GGL"},{"id":"400","teamShortName":"HKI"},{"id":"399","teamShortName":"Kaitak"},{"id":"398","teamShortName":"UWIVCXI"},{"id":"397","teamShortName":"GUGL"},{"id":"396","teamShortName":"RB"},{"id":"395","teamShortName":"HB"},{"id":"394","teamShortName":"KUR"},{"id":"393","teamShortName":"SIRSA"},{"id":"392","teamShortName":"PKK"},{"id":"391","teamShortName":"CAPE"},{"id":"377","teamShortName":"BCBSXI"},{"id":"376","teamShortName":"EMCBXI"},{"id":"362","teamShortName":"SYTW"},{"id":"361","teamShortName":"SYSW"},{"id":"360","teamShortName":"PRSW"},{"id":"359","teamShortName":"MLSW"},{"id":"358","teamShortName":"MLRW"},{"id":"363","teamShortName":"MB"},{"id":"357","teamShortName":"HBHW"},{"id":"356","teamShortName":"BRHW"},{"id":"355","teamShortName":"ADSW"},{"id":"354","teamShortName":"LGR"},{"id":"353","teamShortName":"KC"},{"id":"364","teamShortName":"BPC"},{"id":"365","teamShortName":"SLXI"},{"id":"375","teamShortName":"CG"},{"id":"374","teamShortName":"PCBPXI"},{"id":"373","teamShortName":"KK"},{"id":"372","teamShortName":"VTV"},{"id":"371","teamShortName":"DGD"},{"id":"370","teamShortName":"RKW"},{"id":"369","teamShortName":"MADURAI"},{"id":"368","teamShortName":"LKK"},{"id":"367","teamShortName":"CSG"},{"id":"366","teamShortName":"TP"},{"id":"346","teamShortName":"RPS"},{"id":"345","teamShortName":"GL"}],"selectedMatchType":"test","selectedTeam":"IND"},"headers":["Batter","M","I","R","Avg"],"values":[{"values":["25","Tendulkar","200","329","15921","53.79"]},{"values":["27","Dravid","163","284","13265","52.64"]},{"values":["3817","S Gavaskar","125","214","10122","51.12"]},{"values":["1413","Kohli","123","210","9230","46.85"]},{"values":["28","V Laxman","134","225","8781","45.97"]},{"values":["26","Sehwag","103","178","8503","49.44"]},{"values":["29","S Ganguly","113","188","7212","42.18"]},{"values":["1448","Pujara","103","176","7195","43.61"]},{"values":["3832","D Vengsarkar","116","185","6868","42.13"]},{"values":["3864","M Azharuddin","99","147","6215","45.04"]},{"values":["3823","G Viswanath","91","155","6080","41.93"]},{"values":["3838","K Dev","131","184","5248","31.05"]},{"values":["1447","Ajinkya Rahane","85","144","5077","38.46"]},{"values":["265","Dhoni","90","144","4876","38.09"]},{"values":["3827","M Amarnath","69","113","4378","42.50"]},{"values":["576","Rohit","67","116","4302","40.58"]},{"values":["308","Gambhir","58","104","4154","41.96"]},{"values":["1597","Vijay","61","105","3982","38.29"]},{"values":["3849","R Shastri","80","121","3830","35.79"]},{"values":["5546","P Umrigar","59","94","3631","42.22"]}],"appIndex":{"seoTitle":"Live cricket scores, schedule, news, archive, series | Cricbuzz.com","webURL":"www.cricbuzz.com"}
+            }
+        },
+        "venue":{
+        "info":{
+            "ground":"Basin Reserve","city":"Wellington","country":"New Zealand","timezone":"+13:00","capacity":"11,600","ends":"Vance Stand End, Scoreboard End","homeTeam":"Wellington","imageUrl":"http://i.cricketcb.com/i/stats/fth/540x303/venue/images/45.jpg","imageId":"189174"
+        },
+        "stats":{
+            "venueStats":[{"key":"Total Matches","value":"48"},{"key":"Matches won batting first","value":"7"},{"key":"Matches won bowling first","value":"19"},{"key":"Avg. scores recorded","value":"1st inns-310\n2nd inns-337\n3rd inns-337\n4th inns-159"},{"key":"Highest total recorded","value":"765/6(248.5) by PAK vs SL"},{"key":"Lowest total recorded","value":"80/10(53.1) by AUS vs PAK"},{"key":"Highest score chased","value":"315/9(106.1) by PAK vs AUS"},{"key":"Lowest score defended","value":"149/10(47.1) by SL vs PAK"}]
+        },
+        "matches":{
+            "matchDetails":[{"matchDetailsMap":{"key":"Plunket Shield 2024-25","match":[{"matchInfo":{"matchId":107531,"seriesId":8939,"seriesName":"Plunket Shield 2024-25","matchDesc":"19th Match","matchFormat":"TEST","startDate":"1742506200000","endDate":"1742790600000","state":"Stumps","status":"Day 2: Stumps - Northern Knights lead by 238 runs","team1":{"teamId":294,"teamName":"Northern Knights","teamSName":"NK","imageId":172343},"team2":{"teamId":314,"teamName":"Wellington","teamSName":"WEL","imageId":172364},"venueInfo":{"id":45,"ground":"Basin Reserve","city":"Wellington","timezone":"+13:00"},"currBatTeamId":294,"seriesStartDt":"1731283200000","seriesEndDt":"1743638400000","isTimeAnnounced":true},"matchScore":{"team1Score":{"inngs1":{"inningsId":1,"runs":119,"wickets":10,"overs":44.1},"inngs2":{"inningsId":3,"runs":308,"wickets":7,"overs":80.0}},"team2Score":{"inngs1":{"inningsId":2,"runs":189,"wickets":10,"overs":61.1}}}},{"matchInfo":{"matchId":107555,"seriesId":8939,"seriesName":"Plunket Shield 2024-25","matchDesc":"23rd Match","matchFormat":"TEST","startDate":"1743197400000","endDate":"1743481800000","state":"Upcoming","status":"Match starts at Mar 29, 21:30 GMT","team1":{"teamId":314,"teamName":"Wellington","teamSName":"WEL","imageId":172364},"team2":{"teamId":312,"teamName":"Canterbury","teamSName":"CNTBRY","imageId":172362},"venueInfo":{"id":45,"ground":"Basin Reserve","city":"Wellington","timezone":"+13:00"},"seriesStartDt":"1731283200000","seriesEndDt":"1743638400000","isTimeAnnounced":true}}],"seriesId":8939}},{"adDetail":{"name":"native_news_index_random_1","layout":"native_large","position":1}}],"appIndex":{"seoTitle":"Plunket Shield 2024-25 live scores, schedule and results - Cricbuzz | Cricbuzz.com","webURL":"www.cricbuzz.com/cricket-series/"}
+        }
+        },
+        "players":{
+        "trending":{
+            "player":[{"id":"41113","name":"Hasan Nawaz","teamName":"Pakistan","faceImageId":182026},{"id":"9885","name":"JJ Smit","teamName":"Namibia","faceImageId":244634},{"id":"8616","name":"Rishi Dhawan","teamName":"India","faceImageId":151723},{"id":"9725","name":"Colin Ackermann","teamName":"Netherlands","faceImageId":352466},{"id":"9443","name":"Tim Seifert","teamName":"New Zealand","faceImageId":154935},{"id":"1358","name":"Manpreet Gony","teamName":"India","faceImageId":182026},{"id":"17494","name":"Imran Anwar","teamName":"Bahrain","faceImageId":182026},{"id":"6311","name":"Ambati Rayudu","teamName":"India","faceImageId":171012},{"id":"7913","name":"Pawan Suyal","teamName":"India","faceImageId":182026},{"id":"9441","name":"Kyle Jamieson","teamName":"New Zealand","faceImageId":616419}],"category":"TRENDING SEARCHES"
+        },
+        "career":{
+            "values":[{"name":"t20","debut":"vs Zimbabwe,  2016-06-18, Harare Sports Club","lastPlayed":"vs England,  2022-11-10, Adelaide Oval","debutMatchID":"16610","lastPlayedMatchId":"43201"},{"name":"test","debut":"vs Australia,  2014-12-26, Melbourne Cricket Ground","lastPlayed":"vs Australia,  2025-01-03, Sydney Cricket Ground","debutMatchID":"13842","lastPlayedMatchId":"91814"},{"name":"odi","debut":"vs Zimbabwe,  2016-06-11, Harare Sports Club","lastPlayed":"vs New Zealand,  2025-03-09, Dubai International Cricket Stadium","debutMatchID":"16607","lastPlayedMatchId":"112469"},{"name":"ipl","debut":"vs Kolkata Knight Riders,  2013-04-11, M.Chinnaswamy Stadium","lastPlayed":"vs Mumbai Indians,  2024-05-17, Wankhede Stadium","debutMatchID":"11876","lastPlayedMatchId":"91699"},{"name":"cl","debut":"Not played","lastPlayed":"Not played"}],"appIndex":{"seoTitle":"KL Rahul Profile - Cricbuzz | Cricbuzz.com","webURL":"http://www.cricbuzz.com/profiles/8733/kl-rahul"}
+        },
+        "news":{
+            "storyList":[{"story":{"id":133762,"hline":"DC set for new era as Axar & Co. aim to arrest slump","intro":"Having failed to make the playoffs even once in the previous cycle, DC would hope for a different outcome this time under new skipper Axar Patel","pubTime":"1742131451029","source":"Cricbuzz","storyType":"Features","imageId":625934,"seoHeadline":"DC set for new era as Axar & Co. aim to arrest slump","context":"IPL 2025 - TEAM PREVIEW","coverImage":{"id":"625934","caption":"Axar Patel has donned the Delhi Capitals' colours since 2019","source":"Sportzpics"},"entitlements":{},"adsType":{}}},{"ad":{"name":"native_news_index","layout":"native_large","position":1}},{"story":{"id":133717,"hline":"KL Rahul the unsung hero proves his worth ","intro":"The wicketkeeper batter produced underrated gems in both the knockout games.","pubTime":"1741568761865","source":"Cricbuzz","storyType":"Features","imageId":625544,"seoHeadline":"KL Rahul the unsung hero proves his worth","context":"ICC Champions Trophy 2025","coverImage":{"id":"625544","caption":"In the semifinal and final, KL Rahul came up with calm, unbeaten knocks.","source":"Getty"},"entitlements":{},"adsType":{}}},{"story":{"id":133715,"hline":"The cup, the ghosts and the calm within the storm","intro":"Very comfortable at one point, Champions Trophy final took a twisted turn for India before they restored the order once more","pubTime":"1741545239743","source":"Cricbuzz","storyType":"Features","imageId":625512,"seoHeadline":"The cup, the ghosts and the calm within the storm India Rohit Sharma KL Rahul","context":"Champions Trophy 2025","coverImage":{"id":"625512","caption":"\"Brilliant, calm, composed\" - Hardik Pandya on KL Rahul.","source":"AFP"},"entitlements":{},"adsType":{}}},{"story":{"id":133712,"hline":"India lift third Champions Trophy as Rohit, Rahul steer thrilling chase","intro":"India chased down New Zealand's 251 with four wickets and one over to spare","pubTime":"1741538275943","source":"Cricbuzz","storyType":"Reports","imageId":625427,"seoHeadline":"India crowned champions after pipping New Zealand in a tense final","context":"Champions Trophy 2025","coverImage":{"id":"625427","caption":"India team celebrate their third Champions Trophy triumph.","source":"AFP"},"entitlements":{},"adsType":{}}},{"story":{"id":133664,"hline":"We still haven't played the perfect game - Gambhir","intro":"The Indian head coach hailed the impact of Rohit Sharma and backed the decision to play KL Rahul as the frontline 'keeper in the team","pubTime":"1741138579089","source":"Cricbuzz","storyType":"Match Features","imageId":623570,"seoHeadline":"We still haven't played the perfect game - Gambhir","context":"ICC Champions Trophy 2025","coverImage":{"id":"623570","caption":"Gautam Gambhir has dismissed concerns over Virat Kohli getting troubled by legspin","source":"Getty"},"entitlements":{},"adsType":{}}},{"ad":{"name":"native_news_index_2","layout":"native_large","position":5}},{"story":{"id":133615,"hline":"Rotating the strike as soon as you go in has been a challenge - KL Rahul","intro":"India's wicket-keeper was honest in addressing the challenges of playing in Dubai as well as dealing with the competition and criticism","pubTime":"1740758621908","source":"Cricbuzz","storyType":"News","imageId":621558,"seoHeadline":"Rotating the strike as soon as you go in has been a challenge - KL Rahul","context":"ICC Champions Trophy 2025","coverImage":{"id":"621558","caption":"Rahul was measured in dealing with harsh criticism","source":"Getty"},"entitlements":{},"adsType":{}}},{"story":{"id":133127,"hline":"Spotlight on Kohli, Jadeja and Rahul ahead of next Ranji Fixtures","intro":"The trio's availability for selection is still under the scanner.","pubTime":"1737050619265","source":"Cricbuzz","storyType":"News","imageId":600432,"seoHeadline":"Spotlight on Kohli, Jadeja and Rahul ahead of next Ranji Fixtures","context":"Indian cricket","coverImage":{"id":"600432","caption":"Should Kohli and Jadeja both be available, the Delhi-Saurashtra game could be a marquee clash.","source":"Getty"},"entitlements":{},"adsType":{}}},{"story":{"id":132910,"hline":"India lose Rohit, Rahul early after Australia's 474","intro":"Rohit Sharma returned to the top of the order but fell in the second over","pubTime":"1735274124843","source":"Cricbuzz","storyType":"Reports","imageId":591645,"seoHeadline":"India lose Rohit, Rahul early after Australia's 474","context":"Border-Gavaskar Trophy, 2024-25","coverImage":{"id":"591645","caption":"Rohit fell in the second over","source":"AFP"},"entitlements":{},"adsType":{}}},{"story":{"id":132810,"hline":"At that stage I was thinking about going and padding up - Rahul","intro":"The Indian opener lavished praise on Bumrah and Akash Deep as their unbroken 39-run last wicket stand helped India avoid the follow-on","pubTime":"1734436851142","source":"Cricbuzz","storyType":"News","imageId":588443,"seoHeadline":"At that stage I was thinking about going and padding up - Rahul","context":"India tour of Australia, 2024-25","coverImage":{"id":"588443","caption":"Rahul lavished praise on Bumrah and Akash Deep as their unbroken 39-run last wicket stand helped India avoid the follow-on","source":"Getty"},"entitlements":{},"adsType":{}}},{"story":{"id":132808,"hline":"Rahul, Jadeja, last wicket stand ensure India avoid follow-on","intro":"The tail-enders had an unbeaten last-wicket partnership of 39 to force Australia to bat again ","pubTime":"1734424774236","source":"Cricbuzz","storyType":"Reports","imageId":588240,"seoHeadline":"Akash Deep, Bumrah ensure India successfully avoid follow-on","context":"India Tour of Australia, 2024","coverImage":{"id":"588240","caption":"Akash Deep and Jasprit Bumrah shake hands after successfully avoiding the follow-on on Day 4","source":"AFP"},"entitlements":{},"adsType":{}}}],"lastUpdatedTime":"1742622549388","appIndex":{"seoTitle":"KL Rahul latest and breaking cricket news - Cricbuzz | Cricbuzz.com","webURL":"http://www.cricbuzz.com/cricket-team/8733/kl-rahul/news"}
+        },
+        "bowling":{
+            "headers":["ROWHEADER","Test","ODI","T20","IPL"],"values":[{"values":["Matches","58","85","72","132"]},{"values":["Innings","0","0","0","0"]},{"values":["Balls","0","0","0","0"]},{"values":["Runs","0","0","0","0"]},{"values":["Maidens","0","0","0","0"]},{"values":["Wickets","0","0","0","0"]},{"values":["Avg","0.0","0.0","0.0","0.0"]},{"values":["Eco","0","0","0","0"]},{"values":["SR","0.0","0.0","0.0","0.0"]},{"values":["BBI","-/-","-/-","-/-","-/-"]},{"values":["BBM","-/-","-/-","-/-","-/-"]},{"values":["4w","0","0","0","0"]},{"values":["5w","0","0","0","0"]},{"values":["10w","0","0","0","0"]}],"appIndex":{"seoTitle":"KL Rahul Profile - Cricbuzz | Cricbuzz.com","webURL":"http://www.cricbuzz.com/profiles/8733/kl-rahul"},"seriesSpinner":[{"seriesName":"Career"},{"seriesId":9237,"seriesName":"Indian Premier League 2025"}]
+        },
+        "batting":{
+            "headers":["ROWHEADER","Test","ODI","T20","IPL"],"values":[{"values":["Matches","58","85","72","132"]},{"values":["Innings","101","79","68","123"]},{"values":["Runs","3257","3043","2265","4683"]},{"values":["Balls","6168","3451","1628","3479"]},{"values":["Highest","199","112","110","132"]},{"values":["Average","33.58","49.08","37.75","45.47"]},{"values":["SR","52.81","88.18","139.13","134.61"]},{"values":["Not Out","4","17","8","20"]},{"values":["Fours","386","235","191","400"]},{"values":["Sixes","26","67","99","187"]},{"values":["Ducks","9","3","5","4"]},{"values":["50s","17","18","22","37"]},{"values":["100s","8","7","2","4"]},{"values":["200s","0","0","0","0"]},{"values":["300s","0","0","0","0"]},{"values":["400s","0","0","0","0"]}],"appIndex":{"seoTitle":"KL Rahul Profile - Cricbuzz | Cricbuzz.com","webURL":"http://www.cricbuzz.com/profiles/8733/kl-rahul"},"seriesSpinner":[{"seriesName":"Career"},{"seriesId":9237,"seriesName":"Indian Premier League 2025"}]
+        },
+        "info":{
+            "id":"6635","bat":"Left Handed Bat","bowl":"Right-arm offbreak","name":"Usman Khawaja","nickName":"Khawaja","height":"1.75 m ","role":"Batsman","birthPlace":"Islamabad, Pakistan ","intlTeam":"Australia","teams":"Australia, New South Wales, Derbyshire, Cricket Australia Chairmans XI, Sydney Thunder, Queensland, Australians, Australia A, Lancashire, Rising Pune Supergiant, Glamorgan, Islamabad United, Brisbane Heat","DoB":"December 18, 1986 (38 years)","image":"http://i.cricketcb.com/stats/img/faceImages/6635.jpg","bio":"Ricky Ponting's injury at Sydney in 2011, opened the doors for the first Muslim cricketer to represent Australia at the highest level. A qualified pilot, the highs of this achievement were unparalleled. Having moved to Australia as a kid, Usman Khawaja with the bat in his hands was identified pretty early as the boy wonder.  \u003cbr/\u003e  \u003cbr/\u003e Honing his skills at the Valley District Cricket Club, Usman made it to the Australian under-19 squad for the 2006 World Cup. He featured in 4 games and hunted down 140 runs making an impression with his poise at the crease and crafty technique. A backlift which comes down on the ball like butter on bread, Khawaja loves to cut and pull.  \u003cbr/\u003e  \u003cbr/\u003e Following his debut series,  Usman travelled to Sri Lanka and South Africa without much of a success. The year of 2011 ended with a home series against the Kiwis and that also remained a low key affair for the then New batsman.  \u003cbr/\u003e  \u003cbr/\u003e He was dropped post that and his next tryst with the baggy green happened during the Ashes in England in 2013 after a layoff of almost 18 months. In 3 Tests, he managed only fifty and another exile from Test cricket was handed out.  \u003cbr/\u003e  \u003cbr/\u003e In the meanwhile, Usman had made his ODI debut at the beginning of 2013 and met a similar fate as he was dropped after three unsuccessful outings in colored clothing. Another big move that Usman had made was the move from NSW to Queensland in 2012. \u003cbr/\u003e  \u003cbr/\u003e His debut season at Queensland yielded 438 runs from 6 games and it got better in the succeeding season as he riled up 551 runs at an average of 50.09 in 8 games. But then occurred a career-threatening injury. He tore his ACL (Anterior Cruciate Ligament) on his left knee and was out of cricket for the next 9 months.  \u003cbr/\u003e  \u003cbr/\u003e Khawaja who was now aware and accustomed to the waiting game built on his patience on the sidelines. He returned to the 2015-16 season with a bang. A ton on his return game for Sydney Thunder in December 2015 made the world aware of the destruction that he can be. The T20I debut was just a mere formal announcement when the touring Indians whitewashed Australia 0-3. \u003cbr/\u003e  \u003cbr/\u003e All this was just before his Test comeback. Usman went onto become a permanent member of the Test team post that barring the tour to India for which he was dropped unceremoniously. But he returned for the Ashes 2017-18 and scored vital knocks over the course of the series. His couple of tons in BBL 05 ensured Sydney Thunder,  the constant wooden Spooner shocked the cricketing fraternity and ended up winning the title.  \u003cbr/\u003e  \u003cbr/\u003e With the bans of Steve Smith and David Warner in 2018, Khawaja was thrust with the responsibility of being Australia's premier batsman in Tests and he rose to the responsibility with elan. A marathon match-saving knock in UAE was the start of a dream run for the stylish left-hander who also stamped his class during the limited-overs tour of India in 2019. \u003cbr/\u003e  \u003cbr/\u003e His prolific run in that ODI series and the succeeding one against Pakistan in the UAE helped Khawaja book his maiden World Cup call-up in 2019. A hamstring injury early in the tournament, however, cut his campaign short. He recovered in time for the following Ashes series but a poor run of form saw him dropped from the side and it wouldn't be until 2022 that he'd make a comeback to the international setup.  \u003cbr/\u003e  \u003cbr/\u003e After a 3-year hiatus, Khawaja returned to the Test side for the 4th Ashes Test in 2021/22 and he made a strong statement after scoring twin-centuries. He followed that up with another excellent performance in Pakistan and ended as the leading run-scorer. Khawaja proved his worth once again as he finished the highly-anticipated 2023 Ashes in England as the leading run-scorer. His contributions at the top of the order were vital in helping Australia retain the Ashes after drawing the series 2-2.  \u003cbr/\u003e  \u003cbr/\u003e In T20s, Khawaja had a brief stint in the IPL in 2016 with the now defunct Rising Pune Supergiants. He also played a few games for the Islamabad United in the PSL and represented the Sydney Thunder in the BBL until 2022. For the 2023 season, he was signed by the Brisbane Heat and named their captain despite his slim availability due to international duties.  \u003cbr/\u003e  \u003cbr/\u003e \u003cb\u003eInteresting facts:\u003c/b\u003e Apart from being a professional cricketer, Khawaja is also a qualified pilot. \u003cbr/\u003e  \u003cbr/\u003e Usman is an ex-student of Westfields Sports School, which has also produced sportsmen of the calibre of Michael Clarke (former Australia captain), soccer player Harry Kewell and world champion discus thrower Dani Samuels. \u003cbr/\u003e  \u003cbr/\u003e \u003cb\u003eBy Cricbuzz Staff\u003c/b\u003e","rankings":{"bat":{"testRank":"9","testBestRank":"4","odiBestRank":"15","t20BestRank":"54","testDiffRank":"0"},"bowl":{},"all":{}},"appIndex":{"seoTitle":"Usman Khawaja Profile - Cricbuzz | Cricbuzz.com","webURL":"http://www.cricbuzz.com/profiles/6635/usman-khawaja"},"DoBFormat":"December 18, 1986","faceImageId":332905,"teamNameIds":[{"teamId":"4","teamName":"Australia"},{"teamId":"104","teamName":"New South Wales"},{"teamId":"144","teamName":"Derbyshire"},{"teamId":"191","teamName":"Cricket Australia Chairmans XI"},{"teamId":"192","teamName":"Sydney Thunder"},{"teamId":"164","teamName":"Queensland"},{"teamId":"266","teamName":"Australians"},{"teamId":"79","teamName":"Australia A"},{"teamId":"143","teamName":"Lancashire"},{"teamId":"346","teamName":"Rising Pune Supergiant"},{"teamId":"149","teamName":"Glamorgan"},{"teamId":"330","teamName":"Islamabad United"},{"teamId":"193","teamName":"Brisbane Heat"}],"playerTeamIds":"4, 104, 144, 191, 192, 164, 266, 79, 143, 346, 149, 330, 193"
+        },
+        "search":{
+            "player":[{"id":"674","name":"Kwame Tucker","teamName":"Bermuda","faceImageId":155488,"dob":"1976-09-28"},{"id":"673","name":"Janeiro Tucker","teamName":"Bermuda","faceImageId":155599,"dob":"1975-03-15"},{"id":"866","name":"Tamauri Tucker","teamName":"Bermuda","faceImageId":155612,"dob":"1988-12-10"},{"id":"11131","name":"Lorcan Tucker","teamName":"Ireland","faceImageId":244650,"dob":"1996-09-10"},{"id":"26178","name":"Delmi Tucker","teamName":"South Africa","faceImageId":255000,"dob":"1997-03-05"},{"id":"7240","name":"Rod Tucker","teamName":"Australia","faceImageId":182026,"dob":"1964-08-28"},{"id":"11123","name":"Fiachra Tucker","teamName":"Ireland","faceImageId":182026,"dob":"N/A"},{"id":"38265","name":"Emily Tucker","teamName":"Scotland","faceImageId":182026,"dob":"N/A"}],"category":"Tucker"
+        }
+        },
+        "iccranking":{
+            "rank":[{"id":"8019","rank":"1","name":"Joe Root","country":"England","rating":"895","points":"895","lastUpdatedOn":"2025-03-18","trend":"Flat","faceImageId":"617404","countryId":"9"},{"id":"12201","rank":"2","name":"Harry Brook","country":"England","rating":"876","points":"876","lastUpdatedOn":"2025-03-18","trend":"Flat","faceImageId":"617402","countryId":"9"},{"id":"6326","rank":"3","name":"Kane Williamson","country":"New Zealand","rating":"867","points":"867","lastUpdatedOn":"2025-03-18","trend":"Flat","faceImageId":"616418","countryId":"13"},{"id":"13940","rank":"4","name":"Yashasvi Jaiswal","country":"India","rating":"847","points":"847","lastUpdatedOn":"2025-03-18","trend":"Flat","faceImageId":"591942","countryId":"2"},{"id":"2250","rank":"5","name":"Steven Smith","country":"Australia","rating":"823","points":"823","lastUpdatedOn":"2025-03-18","trend":"Flat","faceImageId":"619873","countryId":"4"},{"id":"8583","rank":"6","name":"Temba Bavuma","country":"South Africa","rating":"769","points":"769","lastUpdatedOn":"2025-03-18","trend":"Flat","faceImageId":"619857","countryId":"11"},{"id":"10940","rank":"7","name":"Kamindu Mendis","country":"Sri Lanka","rating":"761","points":"761","lastUpdatedOn":"2025-03-18","trend":"Flat","faceImageId":"155713","countryId":"5"},{"id":"8497","rank":"8","name":"Travis Head","country":"Australia","rating":"748","points":"748","lastUpdatedOn":"2025-03-18","trend":"Flat","faceImageId":"619876","countryId":"4"},{"id":"9812","rank":"9","name":"Saud Shakeel","country":"Pakistan","rating":"739","points":"739","lastUpdatedOn":"2025-03-18","trend":"Flat","faceImageId":"616442","countryId":"3"},{"id":"10744","rank":"9","name":"Rishabh Pant","country":"India","rating":"739","points":"739","lastUpdatedOn":"2025-03-18","trend":"Flat","faceImageId":"616524","countryId":"2"},{"id":"6635","rank":"9","name":"Usman Khawaja","country":"Australia","rating":"739","points":"739","lastUpdatedOn":"2025-03-18","trend":"Flat","faceImageId":"332905","countryId":"4"},{"id":"10713","rank":"12","name":"Daryl Mitchell","country":"New Zealand","rating":"725","points":"725","lastUpdatedOn":"2025-03-18","trend":"Flat","faceImageId":"616424","countryId":"13"},{"id":"6245","rank":"13","name":"Dinesh Chandimal","country":"Sri Lanka","rating":"708","points":"708","lastUpdatedOn":"2025-03-18","trend":"Flat","faceImageId":"582334","countryId":"5"},{"id":"9468","rank":"14","name":"Mohammad Rizwan","country":"Pakistan","rating":"671","points":"671","lastUpdatedOn":"2025-03-18","trend":"Flat","faceImageId":"616445","countryId":"3"},{"id":"10182","rank":"15","name":"Marnus Labuschagne","country":"Australia","rating":"669","points":"669","lastUpdatedOn":"2025-03-18","trend":"Flat","faceImageId":"619875","countryId":"4"}],"appIndex":{"seoTitle":"ICC Cricket Rankings - Top 100 Batter | Cricbuzz.com","webURL":"www.cricbuzz.com/cricket-stats/icc-rankings"}
+        },
+        "standing":{
+            "headers":["Rank","Flag","Team","PCT"],"values":[{"value":["1","172126","South Africa","69.440"]},{"value":["2","172117","Australia","67.540"]},{"value":["3","172115","India","50.000"]},{"value":["4","172128","New Zealand","48.210"]},{"value":["5","172123","England","43.180"]},{"value":["6","172119","Sri Lanka","38.460"]},{"value":["7","172120","Bangladesh","31.250"]},{"value":["8","172124","West Indies","28.210"]},{"value":["9","591986","Pakistan","27.980"]}],"seasonStandings":[{"id":5,"name":"World Test Championship (2023-2025)"},{"id":4,"name":"World Test Championship (2021-2023)"},{"id":3,"name":"World Test Championship (2019-2021)"}],"subText":"In the WTC 2023-2025, teams will get 12 points for a win, 4 for a draw and 6 for a tie. Points percentage system (PCT) will be used to determine the leaderboard. PCT = Points won by a team / Points contested * 100."
+        },
+        "recordfilters":{
+            "statsTypesList":[{"types":[{"value":"mostRuns","header":"Most Runs","category":"Batting"},{"value":"highestScore","header":"Highest Scores","category":"Batting"},{"value":"highestAvg","header":"Best Batting Average","category":"Batting"},{"value":"highestSr","header":"Best Batting Strike Rate","category":"Batting"},{"value":"mostHundreds","header":"Most Hundreds","category":"Batting"},{"value":"mostFifties","header":"Most Fifties","category":"Batting"},{"value":"mostFours","header":"Most Fours","category":"Batting"},{"value":"mostSixes","header":"Most Sixes","category":"Batting"},{"value":"mostNineties","header":"Most Nineties","category":"Batting"}],"category":"Batting"},{"types":[{"value":"mostWickets","header":"Most Wickets","category":"Bowling"},{"value":"lowestAvg","header":"Best Bowling Average","category":"Bowling"},{"value":"bestBowlingInnings","header":"Best Bowling ","category":"Bowling"},{"value":"mostFiveWickets","header":"Most 5 Wickets Haul","category":"Bowling"},{"value":"lowestEcon","header":"Best Economy","category":"Bowling"},{"value":"lowestSr","header":"Best Bowling Strike Rate","category":"Bowling"}],"category":"Bowling"}]
+        },
+        "records":{
+            "filter":{"matchtype":[{"matchTypeId":"1","matchTypeDesc":"test"},{"matchTypeId":"2","matchTypeDesc":"odi"},{"matchTypeId":"3","matchTypeDesc":"t20"}],"team":[{"id":"12","teamShortName":"ZIM"},{"id":"11","teamShortName":"RSA"},{"id":"10","teamShortName":"WI"},{"id":"9","teamShortName":"ENG"},{"id":"6","teamShortName":"BAN"},{"id":"5","teamShortName":"SL"},{"id":"4","teamShortName":"AUS"},{"id":"3","teamShortName":"PAK"},{"id":"13","teamShortName":"NZ"},{"id":"27","teamShortName":"IRE"},{"id":"2","teamShortName":"IND"},{"id":"96","teamShortName":"AFG"}],"selectedMatchType":"test"},"headers":["Batter","M","I","R","Avg"],"values":[{"values":["25","Tendulkar","200","329","15921","53.79"]},{"values":["38","R Ponting","168","287","13378","51.85"]},{"values":["213","Kallis","166","280","13289","55.37"]},{"values":["27","Dravid","164","286","13288","52.31"]},{"values":["8019","Root","152","278","12972","50.87"]},{"values":["488","Cook","161","291","12472","45.35"]},{"values":["104","Sangakkara","134","233","12400","57.14"]},{"values":["240","B Lara","131","232","11953","52.89"]},{"values":["244","Chanderpaul","164","280","11867","51.37"]},{"values":["101","Mahela","149","252","11814","49.85"]},{"values":["4672","A Border","156","265","11174","50.56"]},{"values":["4712","S Waugh","168","260","10927","51.06"]},{"values":["2250","Steven Smith","116","206","10271","56.75"]},{"values":["3817","S Gavaskar","125","214","10122","51.12"]},{"values":["130","Younis Khan","118","213","10099","52.06"]},{"values":["314","Amla","124","215","9282","46.64"]},{"values":["6326","Williamson","105","186","9276","54.89"]},{"values":["207","Graeme Smith","117","205","9265","48.26"]},{"values":["1413","Kohli","123","210","9230","46.85"]},{"values":["5308","G Gooch","118","215","8900","42.58"]}],"appIndex":{"seoTitle":"Live cricket scores, schedule, news, archive, series | Cricbuzz.com","webURL":"www.cricbuzz.com"}
+        }
+    }
+}

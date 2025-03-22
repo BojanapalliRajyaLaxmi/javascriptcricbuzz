@@ -83,27 +83,17 @@ document.addEventListener("DOMContentLoaded", function () {
   
   // Initial indicator position
   updateIndicatorPosition();
-const urlHome = 'https://cricbuzz-cricket.p.rapidapi.com/matches/v1/recent';
-const optionsHome = {
-	method: 'GET',
-	headers: {
-		'x-rapidapi-key': '7a065f4400msh45e4001974ce383p1a3af2jsn92bf2a0a8a06',
-		'x-rapidapi-host': 'cricbuzz-cricket.p.rapidapi.com'
-	}
-};
-
-async function matchHome() {
-  
-  try {
-    const response = await fetch(urlHome, optionsHome);
-    const result = await response.text();
-    localStorage.setItem("Match",result)
-    // console.log(result);
-  } catch (error) {
-    console.error(error);
+  async function matchHome() {
+    try {
+      const response = await fetch('./matches.json');
+      const data = await response.json();
+      localStorage.setItem("match",JSON.stringify(data.matches.list))
+      // console.log(data.matches.list);
+    } catch (error) {
+      console.error("Error fetching data from JSON file:", error);
+    }
   }
-}
-// matchHome()
+  matchHome();
   function formatISTDate(timestamp) {
     if (!timestamp) return "N/A";
     const date = new Date(parseInt(timestamp, 10));
@@ -129,7 +119,8 @@ async function matchHome() {
     existingLogo.innerHTML = "Current Matches";
     subContainer.innerHTML = "";
 
-    let storedMatches = JSON.parse(localStorage.getItem("Match"));
+    let storedMatches = JSON.parse(localStorage.getItem('match'))
+    // console.log(storedMatches);
     if (
       !storedMatches ||
       !storedMatches.filters ||
@@ -225,27 +216,17 @@ async function matchHome() {
   }
 
   fetchMatchData("All");
-
-  const urlTeam = 'https://cricbuzz-cricket.p.rapidapi.com/mcenter/v1/35878/team/9';
-const optionsTeam = {
-	method: 'GET',
-	headers: {
-		'x-rapidapi-key': '143ef6267emshf9ecc93fa7637adp16b501jsn45b56730886f',
-		'x-rapidapi-host': 'cricbuzz-cricket.p.rapidapi.com'
-	}
-};
-async function macthTeam(params) {
-  
+async function matchTeam() {
   try {
-    const response = await fetch(urlTeam, optionsTeam);
-    const result = await response.text();
-    localStorage.setItem("matchSquad",result)
-    // console.log(result);
+    const response = await fetch('./matches.json');
+    const data = await response.json();
+    localStorage.setItem("matchteam",JSON.stringify(data.matches.team))
+    // console.log(data.matches.team);
   } catch (error) {
-    console.error(error);
+    console.error("Error fetching data from JSON file:", error);
   }
 }
-// macthTeam()
+matchTeam();
 
 async function fetchImage(imageId) {
   const url = `https://cricbuzz-cricket.p.rapidapi.com/img/v1/i1/c${imageId}/i.jpg`;
@@ -294,7 +275,7 @@ async function renderPlayers(players, container) {
 
 async function renderSquad() {
   subContainer.innerHTML = "";
-  const squadData = JSON.parse(localStorage.getItem("matchSquad"));
+  const squadData = JSON.parse(localStorage.getItem("matchteam"));
   if (!squadData || !squadData["players"]) {
     console.error("No squad data available.");
     return;
@@ -335,32 +316,21 @@ async function renderPlayers(players, container) {
   }
 }
 
-
-
-  const urlInfo = 'https://cricbuzz-cricket.p.rapidapi.com/mcenter/v1/41881';
-const optionsInfo = {
-	method: 'GET',
-	headers: {
-		'x-rapidapi-key': '143ef6267emshf9ecc93fa7637adp16b501jsn45b56730886f',
-		'x-rapidapi-host': 'cricbuzz-cricket.p.rapidapi.com'
-	}
-};
 async function matchInfo() {
-  
   try {
-    const response = await fetch(urlInfo, optionsInfo);
-    const result = await response.text();
-    localStorage.setItem("info",result)
-    // console.log(result);
+    const response = await fetch('./matches.json');
+    const data = await response.json();
+    localStorage.setItem("matchinfo",JSON.stringify(data.matches.info))
+    // console.log(data.matches.info);
   } catch (error) {
-    console.error(error);
+    console.error("Error fetching data from JSON file:", error);
   }
 }
-// matchInfo()
+matchInfo();
 
   function renderInfo() {
     subContainer.innerHTML = "";
-    let infoData = JSON.parse(localStorage.getItem("info"));
+    let infoData = JSON.parse(localStorage.getItem("matchinfo"));
     const matchInfo = infoData["matchInfo"];
     const venueInfo = infoData["venueInfo"];
     let infocon = document.createElement("div");
@@ -396,24 +366,24 @@ async function matchInfo() {
       'x-rapidapi-host': 'cricbuzz-cricket.p.rapidapi.com'
     }
   };
-  async function matchScore() {
-    
+  async function matchscorecard() {
     try {
-      const response = await fetch(urlScore, optionsScore);
-      const result = await response.text();
-      localStorage.setItem("scard",result)
-      console.log(result);
+      const response = await fetch('./matches.json');
+      const data = await response.json();
+      localStorage.setItem("matchscore",JSON.stringify(data.matches.scorecard))
+      // console.log(data.matches.scorecard);
     } catch (error) {
-      console.error(error);
+      console.error("Error fetching data from JSON file:", error);
     }
   }
+  matchscorecard();
   // matchScore()
   function renderScard() {
     // Clear the content of subContainer
     subContainer.innerHTML = "";
 
     // Parse scorecard data from localStorage
-    let scardData = JSON.parse(localStorage.getItem("scard"));
+    let scardData = JSON.parse(localStorage.getItem("matchscore"));
 
     // Create a table for the scorecard
     const table = document.createElement("table");

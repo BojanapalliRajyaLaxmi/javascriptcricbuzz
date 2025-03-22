@@ -109,22 +109,21 @@ const optionsAllStories = {
 		'x-rapidapi-host': 'cricbuzz-cricket.p.rapidapi.com'
 	}
 };
-async function newsSeries() {
-  
+async function newsstories() {
   try {
-    const response = await fetch(urlAllStories, optionsAllStories);
-    const result = await response.text();
-    localStorage.setItem("allStories",result)
-    console.log(result);
+    const response = await fetch('./news.json');
+    const data = await response.json();
+    localStorage.setItem("newsall",JSON.stringify(data.news.list))
+    // console.log(data.news.list);
   } catch (error) {
-    console.error(error);
+    console.error("Error fetching data from JSON file:", error);
   }
 }
-// newsSeries()
+newsstories()
 
   function fetchAndRenderStories() {
     subContainer.innerHTML = ""; 
-    let storiesData = JSON.parse(localStorage.getItem("allStories"));
+    let storiesData = JSON.parse(localStorage.getItem("newsall"));
     let storyList = storiesData["storyList"];
     storyList.forEach((story) => {
         if (story["story"] && story["story"]["hline"]) {
@@ -156,34 +155,22 @@ fetchAndRenderStories();
       subContainer.appendChild(premiumDiv);
   }
 displayPremiumEditorials()
-
-
-const urlTopics = 'https://cricbuzz-cricket.p.rapidapi.com/news/v1/topics';
-const optionsTopics = {
-	method: 'GET',
-	headers: {
-		'x-rapidapi-key': '143ef6267emshf9ecc93fa7637adp16b501jsn45b56730886f',
-		'x-rapidapi-host': 'cricbuzz-cricket.p.rapidapi.com'
-	}
-};
-async function newsTopics() {
-  
+async function newstopic() {
   try {
-    const response = await fetch(urlTopics, optionsTopics);
-    const result = await response.text();
-    localStorage.setItem("newsTopics",result)
-    console.log(result);
+    const response = await fetch('./news.json');
+    const data = await response.json();
+    localStorage.setItem("newstopic",JSON.stringify(data.news.topic))
+    // console.log(data.matches.scorecard);
   } catch (error) {
-    console.error(error);
+    console.error("Error fetching data from JSON file:", error);
   }
 }
-// newsTopics()
-
+newstopic()
 
 
 function displayTopics() {
   subContainer.innerHTML="";
-  let topicsData = JSON.parse(localStorage.getItem("newsTopics"));
+  let topicsData = JSON.parse(localStorage.getItem("newstopic"));
   let topicsList = topicsData ? topicsData["topics"] : [];
   topicsList.forEach((topic) => {
       let topicWrapper = document.createElement("div");
@@ -216,24 +203,23 @@ const optionsnewsInside = {
 		'x-rapidapi-host': 'cricbuzz-cricket.p.rapidapi.com'
 	}
 };
-async function newsInsideStory() {
-  
+async function newsinside() {
   try {
-    const response = await fetch(urlnewsInside, optionsnewsInside);
-    const result = await response.text();
-    localStorage.setItem("newsStory",result)
-    console.log(result);
+    const response = await fetch('./news.json');
+    const data = await response.json();
+    localStorage.setItem("newstopiclist",JSON.stringify(data.news.listtopic))
+    // console.log(data.matches.scorecard);
   } catch (error) {
-    console.error(error);
+    console.error("Error fetching data from JSON file:", error);
   }
 }
-// newsInsideStory()
+newsinside()
 
 
 
 function inside() {
   subContainer.innerHTML = "";
-  let res = JSON.parse(localStorage.getItem("newsStory"));
+  let res = JSON.parse(localStorage.getItem("newstopiclist"));
   if (res && res['storyList']) {
     res['storyList'].forEach((item) => {
       if (item["story"]) {
@@ -272,23 +258,21 @@ const optionsCategory = {
 	}
 };
 async function newscategory() {
-  
   try {
-    const response = await fetch(urlCategory, optionsCategory);
-    const result = await response.text();
-    localStorage.setItem("categories2",result)
-    console.log(result);
+    const response = await fetch('./news.json');
+    const data = await response.json();
+    localStorage.setItem("newscategory",JSON.stringify(data.news.category))
+    // console.log(data.matches.scorecard);
   } catch (error) {
-    console.error(error);
+    console.error("Error fetching data from JSON file:", error);
   }
 }
-
-// newscategory()
+newscategory()
 
 
 function displayCategories() {
   subContainer.innerHTML = "";
-  let categoriesData = JSON.parse(localStorage.getItem("categories2"));
+  let categoriesData = JSON.parse(localStorage.getItem("newscategory"));
   if (categoriesData && categoriesData['storyType']) {
     categoriesData['storyType'].forEach((ele) => {
       let categoryDiv = document.createElement("div");
@@ -316,31 +300,24 @@ displayCategories();
 
 
 
-const urlSpecials = 'https://cricbuzz-cricket.p.rapidapi.com/news/v1/cat/5';
-const optionsSpecials = {
-	method: 'GET',
-	headers: {
-		'x-rapidapi-key': '143ef6267emshf9ecc93fa7637adp16b501jsn45b56730886f',
-		'x-rapidapi-host': 'cricbuzz-cricket.p.rapidapi.com'
-	}
-};
-async function newsSpecials() {
-  
+
+async function newslistcategory() {
   try {
-    const response = await fetch(urlSpecials, optionsSpecials);
-    const result = await response.text();
-    localStorage.setItem("specials",result)
+    const response = await fetch('./news.json');
+    const data = await response.json();
+    localStorage.setItem("newscategorylist",JSON.stringify(data.news.listcategory))
+    // console.log(data.matches.scorecard);
   } catch (error) {
-    console.error(error);
+    console.error("Error fetching data from JSON file:", error);
   }
 }
-// newsSpecials()
+newslistcategory()
 
 
 
 function displaySpecialsData() {
   subContainer.innerHTML = "";
-  const specialsData = JSON.parse(localStorage.getItem("specials"));
+  const specialsData = JSON.parse(localStorage.getItem("newscategorylist"));
   if (specialsData && specialsData['storyList']) {
     specialsData['storyList'].forEach((ele) => {
       if (ele['story']) {
