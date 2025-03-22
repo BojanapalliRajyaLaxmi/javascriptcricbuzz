@@ -334,7 +334,7 @@ async function morestats() {
   try {
     const response = await fetch('./more.json');
     const data = await response.json();
-    localStorage.setItem("morestats",JSON.stringify(data.more.series.stats))
+    localStorage.setItem("morestats",JSON.stringify(data.more.series.statsfilter))
     // console.log(data.more.series.matches);
   } catch (error) {
     console.error("Error fetching data from JSON file:", error);
