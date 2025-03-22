@@ -96,9 +96,19 @@ document.addEventListener("DOMContentLoaded", function () {
       return "https://via.placeholder.com/150"; // Fallback image
     }
   }
-  
+  async function Home() {
+    try {
+      const response = await fetch('./matches.json');
+      const data = await response.json();
+      localStorage.setItem("home",JSON.stringify(data.matches.list))
+      // console.log(data.matches.list);
+    } catch (error) {
+      console.error("Error fetching data from JSON file:", error);
+    }
+  }
+  Home();
   async function fetchMatchData() {
-    let storedMatches = JSON.parse(localStorage.getItem("match"));
+    let storedMatches = JSON.parse(localStorage.getItem("home"));
     if (!storedMatches) {
       console.error("No match data found in local storage.");
       return;
@@ -184,6 +194,7 @@ document.addEventListener("DOMContentLoaded", function () {
       return null;
     }
   }
+  
   
   async function fetchAndRenderHomeStories() {
     let homeData = JSON.parse(localStorage.getItem("newsall"));

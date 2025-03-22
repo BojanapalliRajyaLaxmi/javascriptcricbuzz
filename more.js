@@ -127,27 +127,19 @@ document.addEventListener("DOMContentLoaded", function () {
       })
     }
   });
-  const urlSeries = 'https://cricbuzz-cricket.p.rapidapi.com/series/v1/international';
-  const optionsSeries = {
-    method: 'GET',
-    headers: {
-      'x-rapidapi-key': '143ef6267emshf9ecc93fa7637adp16b501jsn45b56730886f',
-      'x-rapidapi-host': 'cricbuzz-cricket.p.rapidapi.com'
-    }
-  };
-  async function moreSeries() {
-    
+  async function matchmore() {
     try {
-      const response = await fetch(urlSeries, optionsSeries);
-      const result = await response.text();
-      localStorage.setItem("moreSeries",result)
-      console.log(result);
+      const response = await fetch('./more.json');
+      const data = await response.json();
+      // console.log(data.more.series.list)
+      localStorage.setItem("more",JSON.stringify(data.more.series.list))
+      // console.log(data.more.series.list);
     } catch (error) {
-      console.error(error);
+      console.error("Error fetching data from JSON file:", error);
     }
   }
-// moreSeries()
-  
+matchmore()
+
   function formatISTDate(timestamp) {
     if (!timestamp) return "N/A";
     const date = new Date(parseInt(timestamp, 10));
@@ -170,7 +162,7 @@ document.addEventListener("DOMContentLoaded", function () {
     let navele = document.createElement("div");
     navele.id = "navele";
     upperbg.appendChild(navele);
-    let series = JSON.parse(localStorage.getItem("moreSeries"));
+    let series = JSON.parse(localStorage.getItem("more"));
     let input = document.createElement("input");
     input.id = "inp";
     subContainer.appendChild(input);
@@ -218,30 +210,20 @@ document.addEventListener("DOMContentLoaded", function () {
       });
     });
   }
-
-  const urlseriesMatch = 'https://cricbuzz-cricket.p.rapidapi.com/series/v1/3641';
-  const optionsSeriesMatch = {
-    method: 'GET',
-    headers: {
-      'x-rapidapi-key': '143ef6267emshf9ecc93fa7637adp16b501jsn45b56730886f',
-      'x-rapidapi-host': 'cricbuzz-cricket.p.rapidapi.com'
-    }
-  };
-  async function moreSeriesMatch() {
-    
+  async function moremat() {
     try {
-      const response = await fetch(urlseriesMatch, optionsSeriesMatch);
-      const result = await response.text();
-      localStorage.setItem("seriesMatch",result)
-      console.log(result);
+      const response = await fetch('./more.json');
+      const data = await response.json();
+      localStorage.setItem("morematch",JSON.stringify(data.more.series.matches))
+      // console.log(data.more.series.matches);
     } catch (error) {
-      console.error(error);
+      console.error("Error fetching data from JSON file:", error);
     }
   }
-// moreSeriesMatch()
+  moremat();
 function renderSeriesMatches() {
   subContainer.innerHTML = ""; 
-  let seriesMatchData = JSON.parse(localStorage.getItem("seriesMatch"));
+  let seriesMatchData = JSON.parse(localStorage.getItem("morematch"));
   let matchSeries = document.createElement("div");
   matchSeries.id = "matchSeries";
   subContainer.appendChild(matchSeries);
@@ -310,27 +292,17 @@ async function fetchImage(imageId) {
     box.innerHTML = "Hooo sorry, data is loading.....!!!!!!";
     subContainer.appendChild(box);
   }
-  
-  const urlSeriesSquads = 'https://cricbuzz-cricket.p.rapidapi.com/series/v1/3718/squads';
-  const optionsSeriesSquads = {
-    method: 'GET',
-    headers: {
-      'x-rapidapi-key': '143ef6267emshf9ecc93fa7637adp16b501jsn45b56730886f',
-      'x-rapidapi-host': 'cricbuzz-cricket.p.rapidapi.com'
-    }
-  };
-  async function newsSeriesSquads() {
-    
+  async function moresquad() {
     try {
-      const response = await fetch(urlSeriesSquads, optionsSeriesSquads);
-      const result = await response.text();
-      localStorage.setItem("seriesSquads",result)
-      console.log(result);
+      const response = await fetch('./more.json');
+      const data = await response.json();
+      localStorage.setItem("moresquad",JSON.stringify(data.more.series.squads))
+      // console.log(data.more.series.matches);
     } catch (error) {
-      console.error(error);
+      console.error("Error fetching data from JSON file:", error);
     }
   }
-  // newsSeriesSquads()
+  moresquad();
 
 function renderMatchSquads() {
   // Clear the previous content in subContainer
@@ -338,7 +310,7 @@ function renderMatchSquads() {
   logo.innerHTML=""; 
   
   // Fetch match squads data from localStorage
-  let matchSquadsData = JSON.parse(localStorage.getItem("seriesSquads"));
+  let matchSquadsData = JSON.parse(localStorage.getItem("moresquad"));
   
   // Iterate through squads and render them
   matchSquadsData["squads"].forEach((ele, index) => {
@@ -358,31 +330,22 @@ function renderMatchSquads() {
   });
 }
 
-const urlSeriesStats = 'https://cricbuzz-cricket.p.rapidapi.com/stats/v1/series/3718';
-const optionsSeriesStats = {
-	method: 'GET',
-	headers: {
-		'x-rapidapi-key': '143ef6267emshf9ecc93fa7637adp16b501jsn45b56730886f',
-		'x-rapidapi-host': 'cricbuzz-cricket.p.rapidapi.com'
-	}
-};
-async function newsSeriesStats() {
-  
+async function morestats() {
   try {
-    const response = await fetch(urlSeriesStats, optionsSeriesStats);
-    const result = await response.text();
-    localStorage.setItem("seriesStats",result)
-    console.log(result);
+    const response = await fetch('./more.json');
+    const data = await response.json();
+    localStorage.setItem("morestats",JSON.stringify(data.more.series.stats))
+    // console.log(data.more.series.matches);
   } catch (error) {
-    console.error(error);
+    console.error("Error fetching data from JSON file:", error);
   }
 }
-// newsSeriesStats()
+morestats();
 
 
 function renderMatchStats() {
   subContainer.innerHTML = "";
-  let matchStatsData = JSON.parse(localStorage.getItem("seriesStats"));
+  let matchStatsData = JSON.parse(localStorage.getItem("morestats"));
   console.log(matchStatsData);
   matchStatsData["types"].forEach((ele, index) => {
     const heading = document.createElement("h2");
@@ -392,33 +355,23 @@ function renderMatchStats() {
   });
 }
 
-
-const urlSeriesNews = 'https://cricbuzz-cricket.p.rapidapi.com/news/v1/series/3636';
-const optionsSeriesNews = {
-	method: 'GET',
-	headers: {
-		'x-rapidapi-key': '143ef6267emshf9ecc93fa7637adp16b501jsn45b56730886f',
-		'x-rapidapi-host': 'cricbuzz-cricket.p.rapidapi.com'
-	}
-};
-async function newsSeriesNews() {
-  
+async function morenews() {
   try {
-    const response = await fetch(urlSeriesNews, optionsSeriesNews);
-    const result = await response.text();
-    localStorage.setItem("seriesNews",result)
-    console.log(result);
+    const response = await fetch('./more.json');
+    const data = await response.json();
+    localStorage.setItem("morenews",JSON.stringify(data.more.series.news))
+    // console.log(data.more.series.matches);
   } catch (error) {
-    console.error(error);
+    console.error("Error fetching data from JSON file:", error);
   }
 }
-// newsSeriesNews()
+morenews();
 
 
 
 function renderMatchNews() {
   subContainer.innerHTML = "";
-  let matchnewsData = JSON.parse(localStorage.getItem("seriesNews"));
+  let matchnewsData = JSON.parse(localStorage.getItem("morenews"));
   console.log(matchnewsData);
 
   matchnewsData["storyList"].forEach(async (ele, index) => {
@@ -481,32 +434,21 @@ async function fetchImage(imageId) {
   }
 }
 
-
-
-const urlSeriesVenue = 'https://cricbuzz-cricket.p.rapidapi.com/series/v1/3718/venues';
-const optionsSeriesVenue = {
-	method: 'GET',
-	headers: {
-		'x-rapidapi-key': '143ef6267emshf9ecc93fa7637adp16b501jsn45b56730886f',
-		'x-rapidapi-host': 'cricbuzz-cricket.p.rapidapi.com'
-	}
-};
-async function newsSeriesVenue() {
-  
+async function morevenue() {
   try {
-    const response = await fetch(urlSeriesVenue, optionsSeriesVenue);
-    const result = await response.text();
-    localStorage.setItem("seriesVenue",result)
-    console.log(result);
+    const response = await fetch('./more.json');
+    const data = await response.json();
+    localStorage.setItem("morevenue",JSON.stringify(data.more.series.venue))
+    // console.log(data.more.series.matches);
   } catch (error) {
-    console.error(error);
+    console.error("Error fetching data from JSON file:", error);
   }
 }
-// newsSeriesVenue()
+morevenue();
 function renderMatchVenue() {
   subContainer.innerHTML = "";
-  let matchVenueData = JSON.parse(localStorage.getItem("seriesVenue"));
-  console.log(matchVenueData);
+  let matchVenueData = JSON.parse(localStorage.getItem("morevenue"));
+  // console.log(matchVenueData);
 
   matchVenueData["seriesVenue"].forEach(async (ele, index) => {
     const venueContainer = document.createElement("div");
@@ -572,18 +514,17 @@ const optionsTeams = {
 		'x-rapidapi-host': 'cricbuzz-cricket.p.rapidapi.com'
 	}
 };
-async function teams() {
-  
+async function moreteam() {
   try {
-    const response = await fetch(urlTeams, optionsTeams);
-    const result = await response.text();
-    localStorage.setItem("team",result)
-    console.log(result);
+    const response = await fetch('./more.json');
+    const data = await response.json();
+    localStorage.setItem("moreteam",JSON.stringify(data.more.team.list))
+    // console.log(data.more.series.matches);
   } catch (error) {
-    console.error(error);
+    console.error("Error fetching data from JSON file:", error);
   }
 }
-// teams()
+moreteam();
 
 
 function displayTeams() {
@@ -595,7 +536,7 @@ function displayTeams() {
   upperbg.appendChild(navele);
   subContainer.innerHTML = "";
 
-  let storedTeams = JSON.parse(localStorage.getItem("team"));
+  let storedTeams = JSON.parse(localStorage.getItem("moreteam"));
   if (!storedTeams || !storedTeams["list"]) {
     let errorMsg = document.createElement("p");
     errorMsg.textContent = "No teams available.";
@@ -660,18 +601,17 @@ const optionsPlayers = {
 		'x-rapidapi-host': 'cricbuzz-cricket.p.rapidapi.com'
 	}
 };
-async function players() {
-  
+async function moreteamplayers() {
   try {
-    const response = await fetch(urlPlayers, optionsPlayers);
-    const result = await response.text();
-    localStorage.setItem("players",result)
-    console.log(result);
+    const response = await fetch('./more.json');
+    const data = await response.json();
+    localStorage.setItem("moreteamplayers",JSON.stringify(data.more.players.trending))
+    // console.log(data.more.series.matches);
   } catch (error) {
-    console.error(error);
+    console.error("Error fetching data from JSON file:", error);
   }
 }
-// players()
+moreteamplayers();
 
 
 
@@ -684,7 +624,7 @@ function renderBowlingStats() {
   upperbg.appendChild(navele);
   subContainer.innerHTML = "";
 
-  const storedBowlingStats = JSON.parse(localStorage.getItem("players"));
+  const storedBowlingStats = JSON.parse(localStorage.getItem("moreteamplayers"));
   console.log("Retrieved Data:", storedBowlingStats);
 
   if (
@@ -790,31 +730,21 @@ function renderPlayerNavigation(player) {
 
   upperbg.appendChild(navigationContainer);
 }
-
-
-const urlPlayerInfo = 'https://cricbuzz-cricket.p.rapidapi.com/stats/v1/player/6635';
-const optionsPlayerInfo = {
-	method: 'GET',
-	headers: {
-		'x-rapidapi-key': '143ef6267emshf9ecc93fa7637adp16b501jsn45b56730886f',
-		'x-rapidapi-host': 'cricbuzz-cricket.p.rapidapi.com'
-	}
-};
-async function playerInfo() {
+async function moreteamplayersinfo() {
   try {
-    const response = await fetch(urlPlayerInfo, optionsPlayerInfo);
-    const result = await response.text();
-    localStorage.setItem("playerInfo",result);
-    console.log(result);
+    const response = await fetch('./more.json');
+    const data = await response.json();
+    localStorage.setItem("moreteamplayersinfo",JSON.stringify(data.more.players.info))
+    // console.log(data.more.series.matches);
   } catch (error) {
-    console.error(error);
+    console.error("Error fetching data from JSON file:", error);
   }
 }
-// playerInfo()
+moreteamplayersinfo();
 
 function renderPlayerInfo() {
   subContainer.innerHTML = "";
-  let playerInfoData = JSON.parse(localStorage.getItem("playerInfo"));
+  let playerInfoData = JSON.parse(localStorage.getItem("moreteamplayersinfo"));
   if (!playerInfoData) {
     subContainer.innerHTML = "<h1>Player information not available.</h1>";
     return;
@@ -882,21 +812,20 @@ const optionsPlayerBowlling = {
 		'x-rapidapi-host': 'cricbuzz-cricket.p.rapidapi.com'
 	}
 };
-async function playerBowlling() {
-  
+async function moreteamplayersbowling() {
   try {
-    const response = await fetch(urlPlayerBowlling, optionsPlayerBowlling);
-    const result = await response.text();
-    localStorage.setItem("playerBowl",result)
-    console.log(result);
+    const response = await fetch('./more.json');
+    const data = await response.json();
+    localStorage.setItem("moreteamplayersbowl",JSON.stringify(data.more.players.bowling))
+    // console.log(data.more.series.matches);
   } catch (error) {
-    console.error(error);
+    console.error("Error fetching data from JSON file:", error);
   }
 }
-// playerBowlling()
+moreteamplayersbowling();
 function bowlingAll() {
   subContainer.innerHTML = ""; 
-  let res = JSON.parse(localStorage.getItem("playerBowl"));
+  let res = JSON.parse(localStorage.getItem("moreteamplayersbowl"));
   let bowlingTable = document.createElement("div");
   bowlingTable.className = "bowlingTable";
   let headerRow = document.createElement("div");
@@ -921,33 +850,21 @@ function bowlingAll() {
   });
   subContainer.appendChild(bowlingTable);
 }
-// bowlingAll()
-
-
-const urlPlayerBatting = 'https://cricbuzz-cricket.p.rapidapi.com/stats/v1/player/8733/batting';
-const optionsPlayerBatting = {
-	method: 'GET',
-	headers: {
-		'x-rapidapi-key': '143ef6267emshf9ecc93fa7637adp16b501jsn45b56730886f',
-		'x-rapidapi-host': 'cricbuzz-cricket.p.rapidapi.com'
-	}
-};
-async function playerBatting() {
-  
+async function moreteamplayersbatting() {
   try {
-    const response = await fetch(urlPlayerBatting, optionsPlayerBatting);
-    const result = await response.text();
-    localStorage.setItem("playerBatting",result)
-    // console.log(result);
+    const response = await fetch('./more.json');
+    const data = await response.json();
+    localStorage.setItem("moreteamplayersbatting",JSON.stringify(data.more.players.batting))
+    // console.log(data.more.series.matches);
   } catch (error) {
-    console.error(error);
+    console.error("Error fetching data from JSON file:", error);
   }
 }
-// playerBatting()
+moreteamplayersbatting();
 
 function BattingInfo() {
   subContainer.innerHTML = ""; 
-  let battingData = JSON.parse(localStorage.getItem("playerBatting"));
+  let battingData = JSON.parse(localStorage.getItem("moreteamplayersbatting"));
   console.log(battingData);
 
   // Create the main table container
@@ -1001,21 +918,20 @@ const optionsPlayerCareer = {
 		'x-rapidapi-host': 'cricbuzz-cricket.p.rapidapi.com'
 	}
 };
-async function playerCareer() {
-  
+async function moreteamplayerscareer() {
   try {
-    const response = await fetch(urlPlayerCareer, optionsPlayerCareer);
-    const result = await response.text();
-    localStorage.setItem("playerCareer",result)
-    console.log(result);
+    const response = await fetch('./more.json');
+    const data = await response.json();
+    localStorage.setItem("moreteamplayerscareer",JSON.stringify(data.more.players.career))
+    // console.log(data.more.series.matches);
   } catch (error) {
-    console.error(error);
+    console.error("Error fetching data from JSON file:", error);
   }
 }
-// playerCareer()
+moreteamplayerscareer();
 function careerAll() {
   subContainer.innerHTML = "";  
-  let res = JSON.parse(localStorage.getItem("playerCareer"));
+  let res = JSON.parse(localStorage.getItem("moreteamplayerscareer"));
   res["values"].forEach(value => {
     let careerItem = document.createElement("div");
     careerItem.className = "careerItem";
@@ -1047,23 +963,22 @@ const optionsPlayerNews = {
 		'x-rapidapi-host': 'cricbuzz-cricket.p.rapidapi.com'
 	}
 };
-async function playerNews() {
-  
+async function moreteamplayersnews() {
   try {
-    const response = await fetch(urlPlayerNews, optionsPlayerNews);
-    const result = await response.text();
-    localStorage.setItem("playerNews",result)
-    console.log(result);
+    const response = await fetch('./more.json');
+    const data = await response.json();
+    localStorage.setItem("moreteamplayersnews",JSON.stringify(data.more.players.news))
+    // console.log(data.more.series.matches);
   } catch (error) {
-    console.error(error);
+    console.error("Error fetching data from JSON file:", error);
   }
 }
-// playerNews()
+moreteamplayersnews();
 
 function newsAll() {
     subContainer.innerHTML = ""; // Clear subCOntainer for fresh data display
   
-    let res = JSON.parse(localStorage.getItem("playerNews"));
+    let res = JSON.parse(localStorage.getItem("moreteamplayersnews"));
     
     // Create a container for the news stories
     let newsContainer = document.createElement("div");
@@ -1100,36 +1015,20 @@ function newsAll() {
         newsContainer.appendChild(storyItem);
       }
     }
-  
-    // Append the news container to subCOntainer
     subContainer.appendChild(newsContainer);
   }
-  // newsAll()
 
-
-
-
-const urlSchedule = 'https://cricbuzz-cricket.p.rapidapi.com/schedule/v1/international';
-const optionsSchedule = {
-	method: 'GET',
-	headers: {
-		'x-rapidapi-key': '143ef6267emshf9ecc93fa7637adp16b501jsn45b56730886f',
-		'x-rapidapi-host': 'cricbuzz-cricket.p.rapidapi.com'
-	}
-};
-async function schedule() {
-  
-  try {
-    const response = await fetch(urlSchedule, optionsSchedule);
-    const result = await response.text();
-    localStorage.setItem("schedule",result)
-    console.log(result);
-  } catch (error) {
-    console.error(error);
+  async function moreschedule() {
+    try {
+      const response = await fetch('./more.json');
+      const data = await response.json();
+      localStorage.setItem("moreschedule",JSON.stringify(data.more.schedule))
+      // console.log(data.more.series.matches);
+    } catch (error) {
+      console.error("Error fetching data from JSON file:", error);
+    }
   }
-}
-// schedule()
-
+  moreschedule();
 
 function renderMatchSchedule() {
   let navele = document.createElement("a");
@@ -1139,7 +1038,7 @@ function renderMatchSchedule() {
   upperbg.innerHTML = "";
   upperbg.appendChild(navele);
   subContainer.innerHTML = "";
-  const storedSchedule = JSON.parse(localStorage.getItem("schedule"));
+  const storedSchedule = JSON.parse(localStorage.getItem("moreschedule"));
   console.log("Stored Schedule Data:", storedSchedule);
   if (!storedSchedule || !storedSchedule.matchScheduleMap) {
     console.error("Invalid or missing schedule data.");
@@ -1208,28 +1107,17 @@ function renderMatchSchedule() {
   });
 }
 
-
-
-const urlRanking = 'https://cricbuzz-cricket.p.rapidapi.com/stats/v1/rankings/batsmen?formatType=test';
-const optionsRanking = {
-	method: 'GET',
-	headers: {
-		'x-rapidapi-key': '143ef6267emshf9ecc93fa7637adp16b501jsn45b56730886f',
-		'x-rapidapi-host': 'cricbuzz-cricket.p.rapidapi.com'
-	}
-};
-async function rankings() {
-  
+async function moreranking() {
   try {
-    const response = await fetch(urlRanking, optionsRanking);
-    const result = await response.text();
-    localStorage.setItem("ranking",result)
-    console.log(result);
+    const response = await fetch('./more.json');
+    const data = await response.json();
+    localStorage.setItem("moreranking",JSON.stringify(data.more.iccranking))
+    // console.log(data.more.series.matches);
   } catch (error) {
-    console.error(error);
+    console.error("Error fetching data from JSON file:", error);
   }
 }
-// rankings()
+moreranking();
 
 function menRank() {
   let navele = document.createElement("a");
@@ -1262,7 +1150,7 @@ function menRank() {
   pointsHeader.textContent = "Points";
   pointsHeader.id = "pointsHeader";
   headerRow.appendChild(pointsHeader);
-  let rankingData = JSON.parse(localStorage.getItem("ranking"));
+  let rankingData = JSON.parse(localStorage.getItem("moreranking"));
   console.log(rankingData);
   for (let i = 0; i < rankingData["rank"].length; i++) {
     let rankElement = document.createElement("div");
@@ -1298,27 +1186,18 @@ function menRank() {
   }
 }
 
-
-const urlRecords = 'https://cricbuzz-cricket.p.rapidapi.com/stats/v1/topstats';
-const optionsRecords = {
-	method: 'GET',
-	headers: {
-		'x-rapidapi-key': '143ef6267emshf9ecc93fa7637adp16b501jsn45b56730886f',
-		'x-rapidapi-host': 'cricbuzz-cricket.p.rapidapi.com'
-	}
-};
-async function records() {
-  
+async function morerecord() {
   try {
-    const response = await fetch(urlRecords, optionsRecords);
-    const result = await response.text();
-    localStorage.setItem("records",result)
-    console.log(result);
+    const response = await fetch('./more.json');
+    const data = await response.json();
+    localStorage.setItem("morerecord",JSON.stringify(data.more.recordfilters))
+    // console.log(data.more.series.matches);
   } catch (error) {
-    console.error(error);
+    console.error("Error fetching data from JSON file:", error);
   }
 }
-// records()
+morerecord();
+
 
 function renderRecords(category = "Batting") {
   let navele = document.createElement("a");
@@ -1339,7 +1218,7 @@ function renderRecords(category = "Batting") {
   btn1.addEventListener("click", () => renderRecords("Batting"));
   btn2.addEventListener("click", () => renderRecords("Bowling"));
   subContainer.innerHTML = "";
-  const statsData = JSON.parse(localStorage.getItem("records"));
+  const statsData = JSON.parse(localStorage.getItem("morerecord"));
   console.log(statsData["statsTypesList"]);
   statsData["statsTypesList"].forEach((ele) => {
     ele["types"].forEach((item) => {
